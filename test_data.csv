@@ -1,1008 +1,1008 @@
-name,group,year,subGroup,city_id,lastValue,lat,lon,colour,value,rank
-China,Asia,20200122,China,,15136,19.1959,101.0583,#C8BDFF,548,1
-Japan,Asia,20200122,Japan,,72,36,138,#C8BDFF,2,2
-Thailand,Asia,20200122,Thailand,,11,15,101,#C8BDFF,2,3
-US,North America,20200122,US,,548,18.2208,-102.2548,#C8BDFF,1,4
-Afghanistan,Asia,20200122,Afghanistan,,4,33,65,#C8BDFF,0,5
-Albania,Europe,20200122,Albania,,11,41.1533,20.1683,#C8BDFF,0,6
-Algeria,Africa,20200122,Algeria,,11,28.0339,1.6596,#C8BDFF,0,7
-Andorra,Europe,20200122,Andorra,,1,42.5063,1.5218,#C8BDFF,0,8
-Antigua and Barbuda,North America,20200122,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,9
-Argentina,South America,20200122,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,10
-Armenia,Europe,20200122,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Armenia,Asia,20200122,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Aruba,North America,20200122,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,13
-Australia,Oceania,20200122,Australia,,72,-12.4634,115.8605,#C8BDFF,0,14
-Austria,Europe,20200122,Austria,,202,47.5162,14.5501,#C8BDFF,0,15
-Azerbaijan,Europe,20200122,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Azerbaijan,Asia,20200122,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Bahrain,Asia,20200122,Bahrain,,85,26.0275,50.55,#C8BDFF,0,18
-Bangladesh,Asia,20200122,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,19
-China,Asia,20200123,China,,15136,19.1959,101.0583,#C8BDFF,95,1
-Vietnam,Asia,20200123,Vietnam,,12,16,108,#C8BDFF,2,2
-Singapore,Asia,20200123,Singapore,,22,1.2833,103.8333,#C8BDFF,1,3
-Thailand,Asia,20200123,Thailand,,11,15,101,#C8BDFF,1,4
-Afghanistan,Asia,20200123,Afghanistan,,4,33,65,#C8BDFF,0,5
-Albania,Europe,20200123,Albania,,11,41.1533,20.1683,#C8BDFF,0,6
-Algeria,Africa,20200123,Algeria,,11,28.0339,1.6596,#C8BDFF,0,7
-Andorra,Europe,20200123,Andorra,,1,42.5063,1.5218,#C8BDFF,0,8
-Antigua and Barbuda,North America,20200123,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,9
-Argentina,South America,20200123,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,10
-Armenia,Europe,20200123,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Armenia,Asia,20200123,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Aruba,North America,20200123,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,13
-Australia,Oceania,20200123,Australia,,72,-12.4634,115.8605,#C8BDFF,0,14
-Austria,Europe,20200123,Austria,,202,47.5162,14.5501,#C8BDFF,0,15
-Azerbaijan,Europe,20200123,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Azerbaijan,Asia,20200123,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Bahrain,Asia,20200123,Bahrain,,85,26.0275,50.55,#C8BDFF,0,18
-Bangladesh,Asia,20200123,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,19
-China,Asia,20200124,China,,15136,19.1959,101.0583,#C8BDFF,277,1
-France,Europe,20200124,France,,1383,-17.6797,-53,#C8BDFF,2,2
-Singapore,Asia,20200124,Singapore,,22,1.2833,103.8333,#C8BDFF,2,3
-Thailand,Asia,20200124,Thailand,,11,15,101,#C8BDFF,2,4
-Japan,Asia,20200124,Japan,,72,36,138,#C8BDFF,1,5
-US,North America,20200124,US,,548,18.2208,-102.2548,#C8BDFF,1,6
-Afghanistan,Asia,20200124,Afghanistan,,4,33,65,#C8BDFF,0,7
-Albania,Europe,20200124,Albania,,11,41.1533,20.1683,#C8BDFF,0,8
-Algeria,Africa,20200124,Algeria,,11,28.0339,1.6596,#C8BDFF,0,9
-Andorra,Europe,20200124,Andorra,,1,42.5063,1.5218,#C8BDFF,0,10
-Antigua and Barbuda,North America,20200124,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,11
-Argentina,South America,20200124,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,12
-Armenia,Europe,20200124,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Armenia,Asia,20200124,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Aruba,North America,20200124,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,15
-Australia,Oceania,20200124,Australia,,72,-12.4634,115.8605,#C8BDFF,0,16
-Austria,Europe,20200124,Austria,,202,47.5162,14.5501,#C8BDFF,0,17
-Azerbaijan,Europe,20200124,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Azerbaijan,Asia,20200124,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200125,China,,15136,19.1959,101.0583,#C8BDFF,486,1
-Malaysia,Asia,20200125,Malaysia,,48,2.5,112.5,#C8BDFF,3,2
-Thailand,Asia,20200125,Thailand,,11,15,101,#C8BDFF,2,3
-France,Europe,20200125,France,,1383,-17.6797,-53,#C8BDFF,1,4
-Nepal,Asia,20200125,Nepal,,1,28.1667,84.25,#C8BDFF,1,5
-Afghanistan,Asia,20200125,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200125,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200125,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200125,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200125,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200125,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200125,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200125,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200125,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200125,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200125,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200125,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200125,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200125,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200126,China,,15136,19.1959,101.0583,#C8BDFF,669,1
-Australia,Oceania,20200126,Australia,,72,-12.4634,115.8605,#C8BDFF,4,2
-US,North America,20200126,US,,548,18.2208,-102.2548,#C8BDFF,3,3
-Japan,Asia,20200126,Japan,,72,36,138,#C8BDFF,2,4
-Canada,North America,20200126,Canada,,76,37.6489,-106.4509,#C8BDFF,1,5
-Malaysia,Asia,20200126,Malaysia,,48,2.5,112.5,#C8BDFF,1,6
-Singapore,Asia,20200126,Singapore,,22,1.2833,103.8333,#C8BDFF,1,7
-Thailand,Asia,20200126,Thailand,,11,15,101,#C8BDFF,1,8
-Afghanistan,Asia,20200126,Afghanistan,,4,33,65,#C8BDFF,0,9
-Albania,Europe,20200126,Albania,,11,41.1533,20.1683,#C8BDFF,0,10
-Algeria,Africa,20200126,Algeria,,11,28.0339,1.6596,#C8BDFF,0,11
-Andorra,Europe,20200126,Andorra,,1,42.5063,1.5218,#C8BDFF,0,12
-Antigua and Barbuda,North America,20200126,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,13
-Argentina,South America,20200126,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,14
-Armenia,Europe,20200126,Armenia,,10,40.0691,45.0382,#C8BDFF,0,15
-Armenia,Asia,20200126,Armenia,,10,40.0691,45.0382,#C8BDFF,0,16
-Aruba,North America,20200126,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,17
-Austria,Europe,20200126,Austria,,202,47.5162,14.5501,#C8BDFF,0,18
-Azerbaijan,Europe,20200126,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200127,China,,15136,19.1959,101.0583,#C8BDFF,802,1
-Australia,Oceania,20200127,Australia,,72,-12.4634,115.8605,#C8BDFF,1,2
-Cambodia,Asia,20200127,Cambodia,,2,11.55,104.9167,#C8BDFF,1,3
-Germany,Europe,20200127,Germany,,1597,51,9,#C8BDFF,1,4
-Singapore,Asia,20200127,Singapore,,22,1.2833,103.8333,#C8BDFF,1,5
-Sri Lanka,Asia,20200127,Sri Lanka,,4,7,81,#C8BDFF,1,6
-Afghanistan,Asia,20200127,Afghanistan,,4,33,65,#C8BDFF,0,7
-Albania,Europe,20200127,Albania,,11,41.1533,20.1683,#C8BDFF,0,8
-Algeria,Africa,20200127,Algeria,,11,28.0339,1.6596,#C8BDFF,0,9
-Andorra,Europe,20200127,Andorra,,1,42.5063,1.5218,#C8BDFF,0,10
-Antigua and Barbuda,North America,20200127,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,11
-Argentina,South America,20200127,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,12
-Armenia,Europe,20200127,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Armenia,Asia,20200127,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Aruba,North America,20200127,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,15
-Austria,Europe,20200127,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200127,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200127,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200127,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200128,China,,15136,19.1959,101.0583,#C8BDFF,2632,1
-Thailand,Asia,20200128,Thailand,,11,15,101,#C8BDFF,6,2
-Germany,Europe,20200128,Germany,,1597,51,9,#C8BDFF,3,3
-Japan,Asia,20200128,Japan,,72,36,138,#C8BDFF,3,4
-Singapore,Asia,20200128,Singapore,,22,1.2833,103.8333,#C8BDFF,2,5
-Canada,North America,20200128,Canada,,76,37.6489,-106.4509,#C8BDFF,1,6
-France,Europe,20200128,France,,1383,-17.6797,-53,#C8BDFF,1,7
-Afghanistan,Asia,20200128,Afghanistan,,4,33,65,#C8BDFF,0,8
-Albania,Europe,20200128,Albania,,11,41.1533,20.1683,#C8BDFF,0,9
-Algeria,Africa,20200128,Algeria,,11,28.0339,1.6596,#C8BDFF,0,10
-Andorra,Europe,20200128,Andorra,,1,42.5063,1.5218,#C8BDFF,0,11
-Antigua and Barbuda,North America,20200128,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,12
-Argentina,South America,20200128,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,13
-Armenia,Europe,20200128,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Armenia,Asia,20200128,Armenia,,10,40.0691,45.0382,#C8BDFF,0,15
-Aruba,North America,20200128,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,16
-Australia,Oceania,20200128,Australia,,72,-12.4634,115.8605,#C8BDFF,0,17
-Austria,Europe,20200128,Austria,,202,47.5162,14.5501,#C8BDFF,0,18
-Azerbaijan,Europe,20200128,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200129,China,,15136,19.1959,101.0583,#C8BDFF,578,1
-United Arab Emirates,Asia,20200129,United Arab Emirates,,29,24,54,#C8BDFF,4,2
-Malaysia,Asia,20200129,Malaysia,,48,2.5,112.5,#C8BDFF,3,3
-Australia,Oceania,20200129,Australia,,72,-12.4634,115.8605,#C8BDFF,1,4
-Finland,Europe,20200129,Finland,,96,64,26,#C8BDFF,1,5
-France,Europe,20200129,France,,1383,-17.6797,-53,#C8BDFF,1,6
-Afghanistan,Asia,20200129,Afghanistan,,4,33,65,#C8BDFF,0,7
-Albania,Europe,20200129,Albania,,11,41.1533,20.1683,#C8BDFF,0,8
-Algeria,Africa,20200129,Algeria,,11,28.0339,1.6596,#C8BDFF,0,9
-Andorra,Europe,20200129,Andorra,,1,42.5063,1.5218,#C8BDFF,0,10
-Antigua and Barbuda,North America,20200129,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,11
-Argentina,South America,20200129,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,12
-Armenia,Europe,20200129,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Armenia,Asia,20200129,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Aruba,North America,20200129,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,15
-Austria,Europe,20200129,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200129,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200129,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200129,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200130,China,,15136,19.1959,101.0583,#C8BDFF,2054,1
-Japan,Asia,20200130,Japan,,72,36,138,#C8BDFF,4,2
-Australia,Oceania,20200130,Australia,,72,-12.4634,115.8605,#C8BDFF,3,3
-Singapore,Asia,20200130,Singapore,,22,1.2833,103.8333,#C8BDFF,3,4
-India,Asia,20200130,India,,23,21,78,#C8BDFF,1,5
-Malaysia,Asia,20200130,Malaysia,,48,2.5,112.5,#C8BDFF,1,6
-Philippines,Asia,20200130,Philippines,,47,13,122,#C8BDFF,1,7
-Afghanistan,Asia,20200130,Afghanistan,,4,33,65,#C8BDFF,0,8
-Albania,Europe,20200130,Albania,,11,41.1533,20.1683,#C8BDFF,0,9
-Algeria,Africa,20200130,Algeria,,11,28.0339,1.6596,#C8BDFF,0,10
-Andorra,Europe,20200130,Andorra,,1,42.5063,1.5218,#C8BDFF,0,11
-Antigua and Barbuda,North America,20200130,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,12
-Argentina,South America,20200130,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,13
-Armenia,Europe,20200130,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Armenia,Asia,20200130,Armenia,,10,40.0691,45.0382,#C8BDFF,0,15
-Aruba,North America,20200130,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,16
-Austria,Europe,20200130,Austria,,202,47.5162,14.5501,#C8BDFF,0,17
-Azerbaijan,Europe,20200130,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Azerbaijan,Asia,20200130,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200131,China,,15136,19.1959,101.0583,#C8BDFF,1661,1
-Thailand,Asia,20200131,Thailand,,11,15,101,#C8BDFF,5,2
-Japan,Asia,20200131,Japan,,72,36,138,#C8BDFF,4,3
-Singapore,Asia,20200131,Singapore,,22,1.2833,103.8333,#C8BDFF,3,4
-Canada,North America,20200131,Canada,,76,37.6489,-106.4509,#C8BDFF,2,5
-Italy,Europe,20200131,Italy,,5198,43,12,#C8BDFF,2,6
-US,North America,20200131,US,,548,18.2208,-102.2548,#C8BDFF,2,7
-Germany,Europe,20200131,Germany,,1597,51,9,#C8BDFF,1,8
-Sweden,Europe,20200131,Sweden,,215,63,16,#C8BDFF,1,9
-Afghanistan,Asia,20200131,Afghanistan,,4,33,65,#C8BDFF,0,10
-Albania,Europe,20200131,Albania,,11,41.1533,20.1683,#C8BDFF,0,11
-Algeria,Africa,20200131,Algeria,,11,28.0339,1.6596,#C8BDFF,0,12
-Andorra,Europe,20200131,Andorra,,1,42.5063,1.5218,#C8BDFF,0,13
-Antigua and Barbuda,North America,20200131,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,14
-Argentina,South America,20200131,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,15
-Armenia,Europe,20200131,Armenia,,10,40.0691,45.0382,#C8BDFF,0,16
-Armenia,Asia,20200131,Armenia,,10,40.0691,45.0382,#C8BDFF,0,17
-Aruba,North America,20200131,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,18
-Australia,Oceania,20200131,Australia,,72,-12.4634,115.8605,#C8BDFF,0,19
-China,Asia,20200201,China,,15136,19.1959,101.0583,#C8BDFF,2089,1
-Japan,Asia,20200201,Japan,,72,36,138,#C8BDFF,5,2
-Vietnam,Asia,20200201,Vietnam,,12,16,108,#C8BDFF,4,3
-Australia,Oceania,20200201,Australia,,72,-12.4634,115.8605,#C8BDFF,3,4
-Germany,Europe,20200201,Germany,,1597,51,9,#C8BDFF,3,5
-Singapore,Asia,20200201,Singapore,,22,1.2833,103.8333,#C8BDFF,3,6
-France,Europe,20200201,France,,1383,-17.6797,-53,#C8BDFF,1,7
-Spain,Europe,20200201,Spain,,2955,40,-4,#C8BDFF,1,8
-US,North America,20200201,US,,548,18.2208,-102.2548,#C8BDFF,1,9
-Afghanistan,Asia,20200201,Afghanistan,,4,33,65,#C8BDFF,0,10
-Albania,Europe,20200201,Albania,,11,41.1533,20.1683,#C8BDFF,0,11
-Algeria,Africa,20200201,Algeria,,11,28.0339,1.6596,#C8BDFF,0,12
-Andorra,Europe,20200201,Andorra,,1,42.5063,1.5218,#C8BDFF,0,13
-Antigua and Barbuda,North America,20200201,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,14
-Argentina,South America,20200201,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,15
-Armenia,Europe,20200201,Armenia,,10,40.0691,45.0382,#C8BDFF,0,16
-Armenia,Asia,20200201,Armenia,,10,40.0691,45.0382,#C8BDFF,0,17
-Aruba,North America,20200201,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,18
-Austria,Europe,20200201,Austria,,202,47.5162,14.5501,#C8BDFF,0,19
-China,Asia,20200202,China,,15136,19.1959,101.0583,#C8BDFF,4739,1
-Germany,Europe,20200202,Germany,,1597,51,9,#C8BDFF,2,2
-Singapore,Asia,20200202,Singapore,,22,1.2833,103.8333,#C8BDFF,2,3
-India,Asia,20200202,India,,23,21,78,#C8BDFF,1,4
-Philippines,Asia,20200202,Philippines,,47,13,122,#C8BDFF,1,5
-United Arab Emirates,Asia,20200202,United Arab Emirates,,29,24,54,#C8BDFF,1,6
-Afghanistan,Asia,20200202,Afghanistan,,4,33,65,#C8BDFF,0,7
-Albania,Europe,20200202,Albania,,11,41.1533,20.1683,#C8BDFF,0,8
-Algeria,Africa,20200202,Algeria,,11,28.0339,1.6596,#C8BDFF,0,9
-Andorra,Europe,20200202,Andorra,,1,42.5063,1.5218,#C8BDFF,0,10
-Antigua and Barbuda,North America,20200202,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,11
-Argentina,South America,20200202,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,12
-Armenia,Europe,20200202,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Armenia,Asia,20200202,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Aruba,North America,20200202,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,15
-Australia,Oceania,20200202,Australia,,72,-12.4634,115.8605,#C8BDFF,0,16
-Austria,Europe,20200202,Austria,,202,47.5162,14.5501,#C8BDFF,0,17
-Azerbaijan,Europe,20200202,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Azerbaijan,Asia,20200202,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200203,China,,15136,19.1959,101.0583,#C8BDFF,3086,1
-US,North America,20200203,US,,548,18.2208,-102.2548,#C8BDFF,3,2
-Germany,Europe,20200203,Germany,,1597,51,9,#C8BDFF,2,3
-Vietnam,Asia,20200203,Vietnam,,12,16,108,#C8BDFF,2,4
-India,Asia,20200203,India,,23,21,78,#C8BDFF,1,5
-Afghanistan,Asia,20200203,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200203,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200203,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200203,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200203,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200203,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200203,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200203,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200203,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200203,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200203,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200203,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200203,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200203,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200204,China,,15136,19.1959,101.0583,#C8BDFF,3991,1
-Singapore,Asia,20200204,Singapore,,22,1.2833,103.8333,#C8BDFF,6,2
-Thailand,Asia,20200204,Thailand,,11,15,101,#C8BDFF,6,3
-Japan,Asia,20200204,Japan,,72,36,138,#C8BDFF,2,4
-Malaysia,Asia,20200204,Malaysia,,48,2.5,112.5,#C8BDFF,2,5
-Australia,Oceania,20200204,Australia,,72,-12.4634,115.8605,#C8BDFF,1,6
-Belgium,Europe,20200204,Belgium,,245,50.8333,4,#C8BDFF,1,7
-Afghanistan,Asia,20200204,Afghanistan,,4,33,65,#C8BDFF,0,8
-Albania,Europe,20200204,Albania,,11,41.1533,20.1683,#C8BDFF,0,9
-Algeria,Africa,20200204,Algeria,,11,28.0339,1.6596,#C8BDFF,0,10
-Andorra,Europe,20200204,Andorra,,1,42.5063,1.5218,#C8BDFF,0,11
-Antigua and Barbuda,North America,20200204,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,12
-Argentina,South America,20200204,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,13
-Armenia,Europe,20200204,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Armenia,Asia,20200204,Armenia,,10,40.0691,45.0382,#C8BDFF,0,15
-Aruba,North America,20200204,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,16
-Austria,Europe,20200204,Austria,,202,47.5162,14.5501,#C8BDFF,0,17
-Azerbaijan,Europe,20200204,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Azerbaijan,Asia,20200204,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200205,China,,15136,19.1959,101.0583,#C8BDFF,3733,1
-Singapore,Asia,20200205,Singapore,,22,1.2833,103.8333,#C8BDFF,4,2
-Malaysia,Asia,20200205,Malaysia,,48,2.5,112.5,#C8BDFF,2,3
-Canada,North America,20200205,Canada,,76,37.6489,-106.4509,#C8BDFF,1,4
-Afghanistan,Asia,20200205,Afghanistan,,4,33,65,#C8BDFF,0,5
-Albania,Europe,20200205,Albania,,11,41.1533,20.1683,#C8BDFF,0,6
-Algeria,Africa,20200205,Algeria,,11,28.0339,1.6596,#C8BDFF,0,7
-Andorra,Europe,20200205,Andorra,,1,42.5063,1.5218,#C8BDFF,0,8
-Antigua and Barbuda,North America,20200205,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,9
-Argentina,South America,20200205,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,10
-Armenia,Europe,20200205,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Armenia,Asia,20200205,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Aruba,North America,20200205,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,13
-Australia,Oceania,20200205,Australia,,72,-12.4634,115.8605,#C8BDFF,0,14
-Austria,Europe,20200205,Austria,,202,47.5162,14.5501,#C8BDFF,0,15
-Azerbaijan,Europe,20200205,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Azerbaijan,Asia,20200205,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Bahrain,Asia,20200205,Bahrain,,85,26.0275,50.55,#C8BDFF,0,18
-Bangladesh,Asia,20200205,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,19
-China,Asia,20200206,China,,15136,19.1959,101.0583,#C8BDFF,3147,1
-Japan,Asia,20200206,Japan,,72,36,138,#C8BDFF,23,2
-Vietnam,Asia,20200206,Vietnam,,12,16,108,#C8BDFF,2,3
-Australia,Oceania,20200206,Australia,,72,-12.4634,115.8605,#C8BDFF,1,4
-Afghanistan,Asia,20200206,Afghanistan,,4,33,65,#C8BDFF,0,5
-Albania,Europe,20200206,Albania,,11,41.1533,20.1683,#C8BDFF,0,6
-Algeria,Africa,20200206,Algeria,,11,28.0339,1.6596,#C8BDFF,0,7
-Andorra,Europe,20200206,Andorra,,1,42.5063,1.5218,#C8BDFF,0,8
-Antigua and Barbuda,North America,20200206,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,9
-Argentina,South America,20200206,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,10
-Armenia,Europe,20200206,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Armenia,Asia,20200206,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Aruba,North America,20200206,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,13
-Austria,Europe,20200206,Austria,,202,47.5162,14.5501,#C8BDFF,0,14
-Azerbaijan,Europe,20200206,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,15
-Azerbaijan,Asia,20200206,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Bahrain,Asia,20200206,Bahrain,,85,26.0275,50.55,#C8BDFF,0,17
-Bangladesh,Asia,20200206,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,18
-Belarus,Europe,20200206,Belarus,,15,53.7098,27.9534,#C8BDFF,0,19
-China,Asia,20200207,China,,15136,19.1959,101.0583,#C8BDFF,3523,1
-Canada,North America,20200207,Canada,,76,37.6489,-106.4509,#C8BDFF,2,2
-Singapore,Asia,20200207,Singapore,,22,1.2833,103.8333,#C8BDFF,2,3
-Australia,Oceania,20200207,Australia,,72,-12.4634,115.8605,#C8BDFF,1,4
-Germany,Europe,20200207,Germany,,1597,51,9,#C8BDFF,1,5
-Italy,Europe,20200207,Italy,,5198,43,12,#C8BDFF,1,6
-Philippines,Asia,20200207,Philippines,,47,13,122,#C8BDFF,1,7
-Afghanistan,Asia,20200207,Afghanistan,,4,33,65,#C8BDFF,0,8
-Albania,Europe,20200207,Albania,,11,41.1533,20.1683,#C8BDFF,0,9
-Algeria,Africa,20200207,Algeria,,11,28.0339,1.6596,#C8BDFF,0,10
-Andorra,Europe,20200207,Andorra,,1,42.5063,1.5218,#C8BDFF,0,11
-Antigua and Barbuda,North America,20200207,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,12
-Argentina,South America,20200207,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,13
-Armenia,Europe,20200207,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Armenia,Asia,20200207,Armenia,,10,40.0691,45.0382,#C8BDFF,0,15
-Aruba,North America,20200207,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,16
-Austria,Europe,20200207,Austria,,202,47.5162,14.5501,#C8BDFF,0,17
-Azerbaijan,Europe,20200207,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Azerbaijan,Asia,20200207,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200208,China,,15136,19.1959,101.0583,#C8BDFF,2704,1
-Thailand,Asia,20200208,Thailand,,11,15,101,#C8BDFF,7,2
-France,Europe,20200208,France,,1383,-17.6797,-53,#C8BDFF,5,3
-Malaysia,Asia,20200208,Malaysia,,48,2.5,112.5,#C8BDFF,4,4
-Singapore,Asia,20200208,Singapore,,22,1.2833,103.8333,#C8BDFF,3,5
-Vietnam,Asia,20200208,Vietnam,,12,16,108,#C8BDFF,3,6
-United Arab Emirates,Asia,20200208,United Arab Emirates,,29,24,54,#C8BDFF,2,7
-Afghanistan,Asia,20200208,Afghanistan,,4,33,65,#C8BDFF,0,8
-Albania,Europe,20200208,Albania,,11,41.1533,20.1683,#C8BDFF,0,9
-Algeria,Africa,20200208,Algeria,,11,28.0339,1.6596,#C8BDFF,0,10
-Andorra,Europe,20200208,Andorra,,1,42.5063,1.5218,#C8BDFF,0,11
-Antigua and Barbuda,North America,20200208,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,12
-Argentina,South America,20200208,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,13
-Armenia,Europe,20200208,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Armenia,Asia,20200208,Armenia,,10,40.0691,45.0382,#C8BDFF,0,15
-Aruba,North America,20200208,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,16
-Australia,Oceania,20200208,Australia,,72,-12.4634,115.8605,#C8BDFF,0,17
-Austria,Europe,20200208,Austria,,202,47.5162,14.5501,#C8BDFF,0,18
-Azerbaijan,Europe,20200208,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200209,China,,15136,19.1959,101.0583,#C8BDFF,3015,1
-Singapore,Asia,20200209,Singapore,,22,1.2833,103.8333,#C8BDFF,7,2
-Germany,Europe,20200209,Germany,,1597,51,9,#C8BDFF,1,3
-Japan,Asia,20200209,Japan,,72,36,138,#C8BDFF,1,4
-Spain,Europe,20200209,Spain,,2955,40,-4,#C8BDFF,1,5
-Afghanistan,Asia,20200209,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200209,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200209,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200209,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200209,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200209,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200209,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200209,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200209,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200209,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200209,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200209,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200209,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200209,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200210,China,,15136,19.1959,101.0583,#C8BDFF,2525,1
-Singapore,Asia,20200210,Singapore,,22,1.2833,103.8333,#C8BDFF,5,2
-Malaysia,Asia,20200210,Malaysia,,48,2.5,112.5,#C8BDFF,2,3
-United Arab Emirates,Asia,20200210,United Arab Emirates,,29,24,54,#C8BDFF,1,4
-Vietnam,Asia,20200210,Vietnam,,12,16,108,#C8BDFF,1,5
-Afghanistan,Asia,20200210,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200210,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200210,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200210,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200210,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200210,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200210,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200210,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200210,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200210,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200210,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200210,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200210,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200210,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200211,China,,15136,19.1959,101.0583,#C8BDFF,2032,1
-Germany,Europe,20200211,Germany,,1597,51,9,#C8BDFF,2,2
-Singapore,Asia,20200211,Singapore,,22,1.2833,103.8333,#C8BDFF,2,3
-Thailand,Asia,20200211,Thailand,,11,15,101,#C8BDFF,1,4
-US,North America,20200211,US,,548,18.2208,-102.2548,#C8BDFF,1,5
-Vietnam,Asia,20200211,Vietnam,,12,16,108,#C8BDFF,1,6
-Afghanistan,Asia,20200211,Afghanistan,,4,33,65,#C8BDFF,0,7
-Albania,Europe,20200211,Albania,,11,41.1533,20.1683,#C8BDFF,0,8
-Algeria,Africa,20200211,Algeria,,11,28.0339,1.6596,#C8BDFF,0,9
-Andorra,Europe,20200211,Andorra,,1,42.5063,1.5218,#C8BDFF,0,10
-Antigua and Barbuda,North America,20200211,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,11
-Argentina,South America,20200211,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,12
-Armenia,Europe,20200211,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Armenia,Asia,20200211,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Aruba,North America,20200211,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,15
-Australia,Oceania,20200211,Australia,,72,-12.4634,115.8605,#C8BDFF,0,16
-Austria,Europe,20200211,Austria,,202,47.5162,14.5501,#C8BDFF,0,17
-Azerbaijan,Europe,20200211,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Azerbaijan,Asia,20200211,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,19
-China,Asia,20200212,China,,15136,19.1959,101.0583,#C8BDFF,373,1
-Singapore,Asia,20200212,Singapore,,22,1.2833,103.8333,#C8BDFF,3,2
-Japan,Asia,20200212,Japan,,72,36,138,#C8BDFF,2,3
-Afghanistan,Asia,20200212,Afghanistan,,4,33,65,#C8BDFF,0,4
-Albania,Europe,20200212,Albania,,11,41.1533,20.1683,#C8BDFF,0,5
-Algeria,Africa,20200212,Algeria,,11,28.0339,1.6596,#C8BDFF,0,6
-Andorra,Europe,20200212,Andorra,,1,42.5063,1.5218,#C8BDFF,0,7
-Antigua and Barbuda,North America,20200212,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,8
-Argentina,South America,20200212,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,9
-Armenia,Europe,20200212,Armenia,,10,40.0691,45.0382,#C8BDFF,0,10
-Armenia,Asia,20200212,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Aruba,North America,20200212,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,12
-Australia,Oceania,20200212,Australia,,72,-12.4634,115.8605,#C8BDFF,0,13
-Austria,Europe,20200212,Austria,,202,47.5162,14.5501,#C8BDFF,0,14
-Azerbaijan,Europe,20200212,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,15
-Azerbaijan,Asia,20200212,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Bahrain,Asia,20200212,Bahrain,,85,26.0275,50.55,#C8BDFF,0,17
-Bangladesh,Asia,20200212,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,18
-Belarus,Europe,20200212,Belarus,,15,53.7098,27.9534,#C8BDFF,0,19
-China,Asia,20200213,China,,15136,19.1959,101.0583,#C8BDFF,15136,1
-Singapore,Asia,20200213,Singapore,,22,1.2833,103.8333,#C8BDFF,8,2
-Malaysia,Asia,20200213,Malaysia,,48,2.5,112.5,#C8BDFF,1,3
-US,North America,20200213,US,,548,18.2208,-102.2548,#C8BDFF,1,4
-Vietnam,Asia,20200213,Vietnam,,12,16,108,#C8BDFF,1,5
-Afghanistan,Asia,20200213,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200213,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200213,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200213,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200213,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200213,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200213,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200213,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200213,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200213,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200213,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200213,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200213,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200213,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200214,China,,15136,19.1959,101.0583,#C8BDFF,6463,1
-Singapore,Asia,20200214,Singapore,,22,1.2833,103.8333,#C8BDFF,9,2
-Egypt,Africa,20200214,Egypt,,34,26,30,#C8BDFF,1,3
-Japan,Asia,20200214,Japan,,72,36,138,#C8BDFF,1,4
-Afghanistan,Asia,20200214,Afghanistan,,4,33,65,#C8BDFF,0,5
-Albania,Europe,20200214,Albania,,11,41.1533,20.1683,#C8BDFF,0,6
-Algeria,Africa,20200214,Algeria,,11,28.0339,1.6596,#C8BDFF,0,7
-Andorra,Europe,20200214,Andorra,,1,42.5063,1.5218,#C8BDFF,0,8
-Antigua and Barbuda,North America,20200214,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,9
-Argentina,South America,20200214,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,10
-Armenia,Europe,20200214,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Armenia,Asia,20200214,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Aruba,North America,20200214,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,13
-Australia,Oceania,20200214,Australia,,72,-12.4634,115.8605,#C8BDFF,0,14
-Austria,Europe,20200214,Austria,,202,47.5162,14.5501,#C8BDFF,0,15
-Azerbaijan,Europe,20200214,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Azerbaijan,Asia,20200214,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Bahrain,Asia,20200214,Bahrain,,85,26.0275,50.55,#C8BDFF,0,18
-Bangladesh,Asia,20200214,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,19
-China,Asia,20200215,China,,15136,19.1959,101.0583,#C8BDFF,2055,1
-Japan,Asia,20200215,Japan,,72,36,138,#C8BDFF,14,2
-Singapore,Asia,20200215,Singapore,,22,1.2833,103.8333,#C8BDFF,5,3
-Malaysia,Asia,20200215,Malaysia,,48,2.5,112.5,#C8BDFF,3,4
-France,Europe,20200215,France,,1383,-17.6797,-53,#C8BDFF,1,5
-Afghanistan,Asia,20200215,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200215,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200215,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200215,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200215,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200215,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200215,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200215,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200215,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200215,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200215,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200215,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200215,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200215,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200216,China,,15136,19.1959,101.0583,#C8BDFF,2100,1
-Japan,Asia,20200216,Japan,,72,36,138,#C8BDFF,16,2
-Singapore,Asia,20200216,Singapore,,22,1.2833,103.8333,#C8BDFF,3,3
-Thailand,Asia,20200216,Thailand,,11,15,101,#C8BDFF,1,4
-United Arab Emirates,Asia,20200216,United Arab Emirates,,29,24,54,#C8BDFF,1,5
-Afghanistan,Asia,20200216,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200216,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200216,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200216,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200216,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200216,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200216,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200216,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200216,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200216,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200216,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200216,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200216,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200216,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200217,China,,15136,19.1959,101.0583,#C8BDFF,1921,1
-Japan,Asia,20200217,Japan,,72,36,138,#C8BDFF,7,2
-Singapore,Asia,20200217,Singapore,,22,1.2833,103.8333,#C8BDFF,2,3
-Canada,North America,20200217,Canada,,76,37.6489,-106.4509,#C8BDFF,1,4
-Thailand,Asia,20200217,Thailand,,11,15,101,#C8BDFF,1,5
-Afghanistan,Asia,20200217,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200217,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200217,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200217,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200217,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200217,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200217,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200217,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200217,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200217,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200217,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200217,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200217,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200217,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200218,China,,15136,19.1959,101.0583,#C8BDFF,1777,1
-Japan,Asia,20200218,Japan,,72,36,138,#C8BDFF,8,2
-Singapore,Asia,20200218,Singapore,,22,1.2833,103.8333,#C8BDFF,4,3
-Afghanistan,Asia,20200218,Afghanistan,,4,33,65,#C8BDFF,0,4
-Albania,Europe,20200218,Albania,,11,41.1533,20.1683,#C8BDFF,0,5
-Algeria,Africa,20200218,Algeria,,11,28.0339,1.6596,#C8BDFF,0,6
-Andorra,Europe,20200218,Andorra,,1,42.5063,1.5218,#C8BDFF,0,7
-Antigua and Barbuda,North America,20200218,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,8
-Argentina,South America,20200218,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,9
-Armenia,Europe,20200218,Armenia,,10,40.0691,45.0382,#C8BDFF,0,10
-Armenia,Asia,20200218,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Aruba,North America,20200218,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,12
-Australia,Oceania,20200218,Australia,,72,-12.4634,115.8605,#C8BDFF,0,13
-Austria,Europe,20200218,Austria,,202,47.5162,14.5501,#C8BDFF,0,14
-Azerbaijan,Europe,20200218,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,15
-Azerbaijan,Asia,20200218,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Bahrain,Asia,20200218,Bahrain,,85,26.0275,50.55,#C8BDFF,0,17
-Bangladesh,Asia,20200218,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,18
-Belarus,Europe,20200218,Belarus,,15,53.7098,27.9534,#C8BDFF,0,19
-China,Asia,20200219,China,,15136,19.1959,101.0583,#C8BDFF,408,1
-Japan,Asia,20200219,Japan,,72,36,138,#C8BDFF,10,2
-Singapore,Asia,20200219,Singapore,,22,1.2833,103.8333,#C8BDFF,3,3
-Iran,Asia,20200219,Iran,,1365,32,53,#C8BDFF,2,4
-Afghanistan,Asia,20200219,Afghanistan,,4,33,65,#C8BDFF,0,5
-Albania,Europe,20200219,Albania,,11,41.1533,20.1683,#C8BDFF,0,6
-Algeria,Africa,20200219,Algeria,,11,28.0339,1.6596,#C8BDFF,0,7
-Andorra,Europe,20200219,Andorra,,1,42.5063,1.5218,#C8BDFF,0,8
-Antigua and Barbuda,North America,20200219,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,9
-Argentina,South America,20200219,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,10
-Armenia,Europe,20200219,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Armenia,Asia,20200219,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Aruba,North America,20200219,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,13
-Australia,Oceania,20200219,Australia,,72,-12.4634,115.8605,#C8BDFF,0,14
-Austria,Europe,20200219,Austria,,202,47.5162,14.5501,#C8BDFF,0,15
-Azerbaijan,Europe,20200219,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Azerbaijan,Asia,20200219,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Bahrain,Asia,20200219,Bahrain,,85,26.0275,50.55,#C8BDFF,0,18
-Bangladesh,Asia,20200219,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,19
-China,Asia,20200220,China,,15136,19.1959,101.0583,#C8BDFF,458,1
-Japan,Asia,20200220,Japan,,72,36,138,#C8BDFF,10,2
-Iran,Asia,20200220,Iran,,1365,32,53,#C8BDFF,3,3
-Afghanistan,Asia,20200220,Afghanistan,,4,33,65,#C8BDFF,0,4
-Albania,Europe,20200220,Albania,,11,41.1533,20.1683,#C8BDFF,0,5
-Algeria,Africa,20200220,Algeria,,11,28.0339,1.6596,#C8BDFF,0,6
-Andorra,Europe,20200220,Andorra,,1,42.5063,1.5218,#C8BDFF,0,7
-Antigua and Barbuda,North America,20200220,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,8
-Argentina,South America,20200220,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,9
-Armenia,Europe,20200220,Armenia,,10,40.0691,45.0382,#C8BDFF,0,10
-Armenia,Asia,20200220,Armenia,,10,40.0691,45.0382,#C8BDFF,0,11
-Aruba,North America,20200220,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,12
-Australia,Oceania,20200220,Australia,,72,-12.4634,115.8605,#C8BDFF,0,13
-Austria,Europe,20200220,Austria,,202,47.5162,14.5501,#C8BDFF,0,14
-Azerbaijan,Europe,20200220,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,15
-Azerbaijan,Asia,20200220,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,16
-Bahrain,Asia,20200220,Bahrain,,85,26.0275,50.55,#C8BDFF,0,17
-Bangladesh,Asia,20200220,Bangladesh,,3,23.685,90.3563,#C8BDFF,0,18
-Belarus,Europe,20200220,Belarus,,15,53.7098,27.9534,#C8BDFF,0,19
-China,Asia,20200221,China,,15136,19.1959,101.0583,#C8BDFF,473,1
-Italy,Europe,20200221,Italy,,5198,43,12,#C8BDFF,17,2
-Iran,Asia,20200221,Iran,,1365,32,53,#C8BDFF,13,3
-Japan,Asia,20200221,Japan,,72,36,138,#C8BDFF,11,4
-Australia,Oceania,20200221,Australia,,72,-12.4634,115.8605,#C8BDFF,4,5
-US,North America,20200221,US,,548,18.2208,-102.2548,#C8BDFF,2,6
-Canada,North America,20200221,Canada,,76,37.6489,-106.4509,#C8BDFF,1,7
-Israel,Asia,20200221,Israel,,32,31,35,#C8BDFF,1,8
-Lebanon,Asia,20200221,Lebanon,,20,33.8547,35.8623,#C8BDFF,1,9
-Singapore,Asia,20200221,Singapore,,22,1.2833,103.8333,#C8BDFF,1,10
-Afghanistan,Asia,20200221,Afghanistan,,4,33,65,#C8BDFF,0,11
-Albania,Europe,20200221,Albania,,11,41.1533,20.1683,#C8BDFF,0,12
-Algeria,Africa,20200221,Algeria,,11,28.0339,1.6596,#C8BDFF,0,13
-Andorra,Europe,20200221,Andorra,,1,42.5063,1.5218,#C8BDFF,0,14
-Antigua and Barbuda,North America,20200221,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,15
-Argentina,South America,20200221,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,16
-Armenia,Europe,20200221,Armenia,,10,40.0691,45.0382,#C8BDFF,0,17
-Armenia,Asia,20200221,Armenia,,10,40.0691,45.0382,#C8BDFF,0,18
-Aruba,North America,20200221,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,19
-China,Asia,20200222,China,,15136,19.1959,101.0583,#C8BDFF,1451,1
-Italy,Europe,20200222,Italy,,5198,43,12,#C8BDFF,42,2
-Japan,Asia,20200222,Japan,,72,36,138,#C8BDFF,17,3
-Iran,Asia,20200222,Iran,,1365,32,53,#C8BDFF,10,4
-United Arab Emirates,Asia,20200222,United Arab Emirates,,29,24,54,#C8BDFF,4,5
-Australia,Oceania,20200222,Australia,,72,-12.4634,115.8605,#C8BDFF,3,6
-Afghanistan,Asia,20200222,Afghanistan,,4,33,65,#C8BDFF,0,7
-Albania,Europe,20200222,Albania,,11,41.1533,20.1683,#C8BDFF,0,8
-Algeria,Africa,20200222,Algeria,,11,28.0339,1.6596,#C8BDFF,0,9
-Andorra,Europe,20200222,Andorra,,1,42.5063,1.5218,#C8BDFF,0,10
-Antigua and Barbuda,North America,20200222,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,11
-Argentina,South America,20200222,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,12
-Armenia,Europe,20200222,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Armenia,Asia,20200222,Armenia,,10,40.0691,45.0382,#C8BDFF,0,14
-Aruba,North America,20200222,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,15
-Austria,Europe,20200222,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200222,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200222,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200222,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-Italy,Europe,20200223,Italy,,5198,43,12,#C8BDFF,93,1
-Japan,Asia,20200223,Japan,,72,36,138,#C8BDFF,25,2
-China,Asia,20200223,China,,15136,19.1959,101.0583,#C8BDFF,21,3
-Iran,Asia,20200223,Iran,,1365,32,53,#C8BDFF,15,4
-Singapore,Asia,20200223,Singapore,,22,1.2833,103.8333,#C8BDFF,4,5
-Afghanistan,Asia,20200223,Afghanistan,,4,33,65,#C8BDFF,0,6
-Albania,Europe,20200223,Albania,,11,41.1533,20.1683,#C8BDFF,0,7
-Algeria,Africa,20200223,Algeria,,11,28.0339,1.6596,#C8BDFF,0,8
-Andorra,Europe,20200223,Andorra,,1,42.5063,1.5218,#C8BDFF,0,9
-Antigua and Barbuda,North America,20200223,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,10
-Argentina,South America,20200223,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,11
-Armenia,Europe,20200223,Armenia,,10,40.0691,45.0382,#C8BDFF,0,12
-Armenia,Asia,20200223,Armenia,,10,40.0691,45.0382,#C8BDFF,0,13
-Aruba,North America,20200223,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,14
-Australia,Oceania,20200223,Australia,,72,-12.4634,115.8605,#C8BDFF,0,15
-Austria,Europe,20200223,Austria,,202,47.5162,14.5501,#C8BDFF,0,16
-Azerbaijan,Europe,20200223,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,17
-Azerbaijan,Asia,20200223,Azerbaijan,,4,40.1431,47.5769,#C8BDFF,0,18
-Bahrain,Asia,20200223,Bahrain,,85,26.0275,50.55,#C8BDFF,0,19
-China,Asia,20200224,China,,15136,19.1959,101.0583,#C8BDFF,219,1
-Italy,Europe,20200224,Italy,,5198,43,12,#C8BDFF,74,2
-US,North America,20200224,US,,548,18.2208,-102.2548,#C8BDFF,36,3
-Iran,Asia,20200224,Iran,,1365,32,53,#C8BDFF,18,4
-Japan,Asia,20200224,Japan,,72,36,138,#C8BDFF,12,5
-Oman,Asia,20200224,Oman,,6,21,57,#C8BDFF,2,6
-Afghanistan,Asia,20200224,Afghanistan,,4,33,65,#C8BDFF,1,7
-Bahrain,Asia,20200224,Bahrain,,85,26.0275,50.55,#C8BDFF,1,8
-Canada,North America,20200224,Canada,,76,37.6489,-106.4509,#C8BDFF,1,9
-Iraq,Asia,20200224,Iraq,,30,33,44,#C8BDFF,1,10
-Kuwait,Asia,20200224,Kuwait,,24,29.5,47.75,#C8BDFF,1,11
-Albania,Europe,20200224,Albania,,11,41.1533,20.1683,#C8BDFF,0,12
-Algeria,Africa,20200224,Algeria,,11,28.0339,1.6596,#C8BDFF,0,13
-Andorra,Europe,20200224,Andorra,,1,42.5063,1.5218,#C8BDFF,0,14
-Antigua and Barbuda,North America,20200224,Antigua and Barbuda,,1,17.0608,-61.7964,#C8BDFF,0,15
-Argentina,South America,20200224,Argentina,,12,-38.4161,-63.6167,#C8BDFF,0,16
-Armenia,Europe,20200224,Armenia,,10,40.0691,45.0382,#C8BDFF,0,17
-Armenia,Asia,20200224,Armenia,,10,40.0691,45.0382,#C8BDFF,0,18
-Aruba,North America,20200224,Aruba,,2,12.5211,-69.9683,#C8BDFF,0,19
-China,Asia,20200225,China,,15136,19.1959,101.0583,#C8BDFF,513,1
-Italy,Europe,20200225,Italy,,5198,43,12,#C8BDFF,93,2
-Iran,Asia,20200225,Iran,,1365,32,53,#C8BDFF,34,3
-Bahrain,Asia,20200225,Bahrain,,85,26.0275,50.55,#C8BDFF,22,4
-Japan,Asia,20200225,Japan,,72,36,138,#C8BDFF,11,5
-Kuwait,Asia,20200225,Kuwait,,24,29.5,47.75,#C8BDFF,10,6
-Spain,Europe,20200225,Spain,,2955,40,-4,#C8BDFF,4,7
-Austria,Europe,20200225,Austria,,202,47.5162,14.5501,#C8BDFF,2,8
-France,Europe,20200225,France,,1383,-17.6797,-53,#C8BDFF,2,9
-Singapore,Asia,20200225,Singapore,,22,1.2833,103.8333,#C8BDFF,2,10
-Thailand,Asia,20200225,Thailand,,11,15,101,#C8BDFF,2,11
-Algeria,Africa,20200225,Algeria,,11,28.0339,1.6596,#C8BDFF,1,12
-Canada,North America,20200225,Canada,,76,37.6489,-106.4509,#C8BDFF,1,13
-Croatia,Europe,20200225,Croatia,,13,45.1,15.2,#C8BDFF,1,14
-Germany,Europe,20200225,Germany,,1597,51,9,#C8BDFF,1,15
-Switzerland,Europe,20200225,Switzerland,,487,46.8182,8.2275,#C8BDFF,1,16
-Afghanistan,Asia,20200225,Afghanistan,,4,33,65,#C8BDFF,0,17
-Albania,Europe,20200225,Albania,,11,41.1533,20.1683,#C8BDFF,0,18
-Andorra,Europe,20200225,Andorra,,1,42.5063,1.5218,#C8BDFF,0,19
-China,Asia,20200226,China,,15136,19.1959,101.0583,#C8BDFF,412,1
-Italy,Europe,20200226,Italy,,5198,43,12,#C8BDFF,131,2
-Iran,Asia,20200226,Iran,,1365,32,53,#C8BDFF,44,3
-Japan,Asia,20200226,Japan,,72,36,138,#C8BDFF,19,4
-Kuwait,Asia,20200226,Kuwait,,24,29.5,47.75,#C8BDFF,15,5
-Bahrain,Asia,20200226,Bahrain,,85,26.0275,50.55,#C8BDFF,10,6
-Germany,Europe,20200226,Germany,,1597,51,9,#C8BDFF,10,7
-Spain,Europe,20200226,Spain,,2955,40,-4,#C8BDFF,7,8
-US,North America,20200226,US,,548,18.2208,-102.2548,#C8BDFF,6,9
-France,Europe,20200226,France,,1383,-17.6797,-53,#C8BDFF,4,10
-Iraq,Asia,20200226,Iraq,,30,33,44,#C8BDFF,4,11
-Thailand,Asia,20200226,Thailand,,11,15,101,#C8BDFF,3,12
-Croatia,Europe,20200226,Croatia,,13,45.1,15.2,#C8BDFF,2,13
-Oman,Asia,20200226,Oman,,6,21,57,#C8BDFF,2,14
-Pakistan,Asia,20200226,Pakistan,,10,30.3753,69.3451,#C8BDFF,2,15
-Singapore,Asia,20200226,Singapore,,22,1.2833,103.8333,#C8BDFF,2,16
-Brazil,South America,20200226,Brazil,,99,-14.235,-51.9253,#C8BDFF,1,17
-Finland,Europe,20200226,Finland,,96,64,26,#C8BDFF,1,18
-Georgia,Europe,20200226,Georgia,,9,42.3154,43.3569,#C8BDFF,1,19
-China,Asia,20200227,China,,15136,19.1959,101.0583,#C8BDFF,434,1
-Italy,Europe,20200227,Italy,,5198,43,12,#C8BDFF,202,2
-Iran,Asia,20200227,Iran,,1365,32,53,#C8BDFF,106,3
-Japan,Asia,20200227,Japan,,72,36,138,#C8BDFF,25,4
-France,Europe,20200227,France,,1383,-17.6797,-53,#C8BDFF,20,5
-Germany,Europe,20200227,Germany,,1597,51,9,#C8BDFF,19,6
-Kuwait,Asia,20200227,Kuwait,,24,29.5,47.75,#C8BDFF,17,7
-Switzerland,Europe,20200227,Switzerland,,487,46.8182,8.2275,#C8BDFF,7,8
-Sweden,Europe,20200227,Sweden,,215,63,16,#C8BDFF,5,9
-Canada,North America,20200227,Canada,,76,37.6489,-106.4509,#C8BDFF,2,10
-Greece,Europe,20200227,Greece,,91,39.0742,21.8243,#C8BDFF,2,11
-Iraq,Asia,20200227,Iraq,,30,33,44,#C8BDFF,2,12
-Spain,Europe,20200227,Spain,,2955,40,-4,#C8BDFF,2,13
-Australia,Oceania,20200227,Australia,,72,-12.4634,115.8605,#C8BDFF,1,14
-Austria,Europe,20200227,Austria,,202,47.5162,14.5501,#C8BDFF,1,15
-Denmark,Europe,20200227,Denmark,,187,56.2639,-6.9118,#C8BDFF,1,16
-Estonia,Europe,20200227,Estonia,,63,58.5953,25.0136,#C8BDFF,1,17
-Israel,Asia,20200227,Israel,,32,31,35,#C8BDFF,1,18
-Malaysia,Asia,20200227,Malaysia,,48,2.5,112.5,#C8BDFF,1,19
-China,Asia,20200228,China,,15136,19.1959,101.0583,#C8BDFF,328,1
-Italy,Europe,20200228,Italy,,5198,43,12,#C8BDFF,233,2
-Iran,Asia,20200228,Iran,,1365,32,53,#C8BDFF,143,3
-France,Europe,20200228,France,,1383,-17.6797,-53,#C8BDFF,19,4
-Spain,Europe,20200228,Spain,,2955,40,-4,#C8BDFF,17,5
-Japan,Asia,20200228,Japan,,72,36,138,#C8BDFF,14,6
-United Arab Emirates,Asia,20200228,United Arab Emirates,,29,24,54,#C8BDFF,6,7
-Norway,Europe,20200228,Norway,,294,60.472,8.4689,#C8BDFF,5,8
-Bahrain,Asia,20200228,Bahrain,,85,26.0275,50.55,#C8BDFF,3,9
-Croatia,Europe,20200228,Croatia,,13,45.1,15.2,#C8BDFF,2,10
-Germany,Europe,20200228,Germany,,1597,51,9,#C8BDFF,2,11
-Kuwait,Asia,20200228,Kuwait,,24,29.5,47.75,#C8BDFF,2,12
-Romania,Europe,20200228,Romania,,40,45.9432,24.9668,#C8BDFF,2,13
-US,North America,20200228,US,,548,18.2208,-102.2548,#C8BDFF,2,14
-Belarus,Europe,20200228,Belarus,,15,53.7098,27.9534,#C8BDFF,1,15
-Canada,North America,20200228,Canada,,76,37.6489,-106.4509,#C8BDFF,1,16
-Greece,Europe,20200228,Greece,,91,39.0742,21.8243,#C8BDFF,1,17
-Iceland,Europe,20200228,Iceland,,31,64.9631,-19.0208,#C8BDFF,1,18
-Israel,Asia,20200228,Israel,,32,31,35,#C8BDFF,1,19
-China,Asia,20200229,China,,15136,19.1959,101.0583,#C8BDFF,428,1
-Italy,Europe,20200229,Italy,,5198,43,12,#C8BDFF,240,2
-Iran,Asia,20200229,Iran,,1365,32,53,#C8BDFF,205,3
-France,Europe,20200229,France,,1383,-17.6797,-53,#C8BDFF,43,4
-Germany,Europe,20200229,Germany,,1597,51,9,#C8BDFF,31,5
-Japan,Asia,20200229,Japan,,72,36,138,#C8BDFF,13,6
-Spain,Europe,20200229,Spain,,2955,40,-4,#C8BDFF,13,7
-Switzerland,Europe,20200229,Switzerland,,487,46.8182,8.2275,#C8BDFF,10,8
-Norway,Europe,20200229,Norway,,294,60.472,8.4689,#C8BDFF,9,9
-Singapore,Asia,20200229,Singapore,,22,1.2833,103.8333,#C8BDFF,9,10
-US,North America,20200229,US,,548,18.2208,-102.2548,#C8BDFF,8,11
-Austria,Europe,20200229,Austria,,202,47.5162,14.5501,#C8BDFF,6,12
-Canada,North America,20200229,Canada,,76,37.6489,-106.4509,#C8BDFF,6,13
-Iraq,Asia,20200229,Iraq,,30,33,44,#C8BDFF,6,14
-Bahrain,Asia,20200229,Bahrain,,85,26.0275,50.55,#C8BDFF,5,15
-Netherlands,Europe,20200229,Netherlands,,301,52.1326,5.2913,#C8BDFF,5,16
-Sweden,Europe,20200229,Sweden,,215,63,16,#C8BDFF,5,17
-Israel,Asia,20200229,Israel,,32,31,35,#C8BDFF,3,18
-Mexico,North America,20200229,Mexico,,14,23.6345,-102.5528,#C8BDFF,3,19
-China,Asia,20200301,China,,15136,19.1959,101.0583,#C8BDFF,576,1
-Italy,Europe,20200301,Italy,,5198,43,12,#C8BDFF,566,2
-Iran,Asia,20200301,Iran,,1365,32,53,#C8BDFF,385,3
-Germany,Europe,20200301,Germany,,1597,51,9,#C8BDFF,51,4
-Spain,Europe,20200301,Spain,,2955,40,-4,#C8BDFF,39,5
-France,Europe,20200301,France,,1383,-17.6797,-53,#C8BDFF,30,6
-Japan,Asia,20200301,Japan,,72,36,138,#C8BDFF,15,7
-Switzerland,Europe,20200301,Switzerland,,487,46.8182,8.2275,#C8BDFF,9,8
-Bahrain,Asia,20200301,Bahrain,,85,26.0275,50.55,#C8BDFF,6,9
-Ecuador,South America,20200301,Ecuador,,11,-1.8312,-78.1834,#C8BDFF,6,10
-Iraq,Asia,20200301,Iraq,,30,33,44,#C8BDFF,6,11
-Lebanon,Asia,20200301,Lebanon,,20,33.8547,35.8623,#C8BDFF,6,12
-US,North America,20200301,US,,548,18.2208,-102.2548,#C8BDFF,6,13
-Austria,Europe,20200301,Austria,,202,47.5162,14.5501,#C8BDFF,5,14
-Canada,North America,20200301,Canada,,76,37.6489,-106.4509,#C8BDFF,4,15
-Malaysia,Asia,20200301,Malaysia,,48,2.5,112.5,#C8BDFF,4,16
-Netherlands,Europe,20200301,Netherlands,,301,52.1326,5.2913,#C8BDFF,4,17
-Norway,Europe,20200301,Norway,,294,60.472,8.4689,#C8BDFF,4,18
-Singapore,Asia,20200301,Singapore,,22,1.2833,103.8333,#C8BDFF,4,19
-Iran,Asia,20200302,Iran,,1365,32,53,#C8BDFF,523,1
-Italy,Europe,20200302,Italy,,5198,43,12,#C8BDFF,342,2
-China,Asia,20200302,China,,15136,19.1959,101.0583,#C8BDFF,204,3
-France,Europe,20200302,France,,1383,-17.6797,-53,#C8BDFF,61,4
-Spain,Europe,20200302,Spain,,2955,40,-4,#C8BDFF,36,5
-Germany,Europe,20200302,Germany,,1597,51,9,#C8BDFF,29,6
-US,North America,20200302,US,,548,18.2208,-102.2548,#C8BDFF,24,7
-Japan,Asia,20200302,Japan,,72,36,138,#C8BDFF,18,8
-Switzerland,Europe,20200302,Switzerland,,487,46.8182,8.2275,#C8BDFF,15,9
-Kuwait,Asia,20200302,Kuwait,,24,29.5,47.75,#C8BDFF,11,10
-Netherlands,Europe,20200302,Netherlands,,301,52.1326,5.2913,#C8BDFF,8,11
-Iraq,Asia,20200302,Iraq,,30,33,44,#C8BDFF,7,12
-San Marino,Europe,20200302,San Marino,,15,43.9424,12.4578,#C8BDFF,7,13
-Belgium,Europe,20200302,Belgium,,245,50.8333,4,#C8BDFF,6,14
-Norway,Europe,20200302,Norway,,294,60.472,8.4689,#C8BDFF,6,15
-Austria,Europe,20200302,Austria,,202,47.5162,14.5501,#C8BDFF,4,16
-Australia,Oceania,20200302,Australia,,72,-12.4634,115.8605,#C8BDFF,3,17
-Canada,North America,20200302,Canada,,76,37.6489,-106.4509,#C8BDFF,3,18
-Iceland,Europe,20200302,Iceland,,31,64.9631,-19.0208,#C8BDFF,3,19
-Iran,Asia,20200303,Iran,,1365,32,53,#C8BDFF,835,1
-Italy,Europe,20200303,Italy,,5198,43,12,#C8BDFF,466,2
-China,Asia,20200303,China,,15136,19.1959,101.0583,#C8BDFF,125,3
-Spain,Europe,20200303,Spain,,2955,40,-4,#C8BDFF,45,4
-Germany,Europe,20200303,Germany,,1597,51,9,#C8BDFF,37,5
-US,North America,20200303,US,,548,18.2208,-102.2548,#C8BDFF,20,6
-Japan,Asia,20200303,Japan,,72,36,138,#C8BDFF,19,7
-Switzerland,Europe,20200303,Switzerland,,487,46.8182,8.2275,#C8BDFF,14,8
-France,Europe,20200303,France,,1383,-17.6797,-53,#C8BDFF,13,9
-Australia,Oceania,20200303,Australia,,72,-12.4634,115.8605,#C8BDFF,9,10
-Malaysia,Asia,20200303,Malaysia,,48,2.5,112.5,#C8BDFF,7,11
-Norway,Europe,20200303,Norway,,294,60.472,8.4689,#C8BDFF,7,12
-Iraq,Asia,20200303,Iraq,,30,33,44,#C8BDFF,6,13
-Netherlands,Europe,20200303,Netherlands,,301,52.1326,5.2913,#C8BDFF,6,14
-Oman,Asia,20200303,Oman,,6,21,57,#C8BDFF,6,15
-Sweden,Europe,20200303,Sweden,,215,63,16,#C8BDFF,6,16
-United Arab Emirates,Asia,20200303,United Arab Emirates,,29,24,54,#C8BDFF,6,17
-Belgium,Europe,20200303,Belgium,,245,50.8333,4,#C8BDFF,5,18
-Iceland,Europe,20200303,Iceland,,31,64.9631,-19.0208,#C8BDFF,5,19
-Italy,Europe,20200304,Italy,,5198,43,12,#C8BDFF,587,1
-Iran,Asia,20200304,Iran,,1365,32,53,#C8BDFF,586,2
-China,Asia,20200304,China,,15136,19.1959,101.0583,#C8BDFF,125,3
-France,Europe,20200304,France,,1383,-17.6797,-53,#C8BDFF,84,4
-Germany,Europe,20200304,Germany,,1597,51,9,#C8BDFF,66,5
-Spain,Europe,20200304,Spain,,2955,40,-4,#C8BDFF,57,6
-Japan,Asia,20200304,Japan,,72,36,138,#C8BDFF,38,7
-Switzerland,Europe,20200304,Switzerland,,487,46.8182,8.2275,#C8BDFF,34,8
-US,North America,20200304,US,,548,18.2208,-102.2548,#C8BDFF,31,9
-Norway,Europe,20200304,Norway,,294,60.472,8.4689,#C8BDFF,24,10
-India,Asia,20200304,India,,23,21,78,#C8BDFF,23,11
-Iceland,Europe,20200304,Iceland,,31,64.9631,-19.0208,#C8BDFF,15,12
-Malaysia,Asia,20200304,Malaysia,,48,2.5,112.5,#C8BDFF,14,13
-Netherlands,Europe,20200304,Netherlands,,301,52.1326,5.2913,#C8BDFF,14,14
-Sweden,Europe,20200304,Sweden,,215,63,16,#C8BDFF,14,15
-Australia,Oceania,20200304,Australia,,72,-12.4634,115.8605,#C8BDFF,13,16
-Belgium,Europe,20200304,Belgium,,245,50.8333,4,#C8BDFF,10,17
-Austria,Europe,20200304,Austria,,202,47.5162,14.5501,#C8BDFF,8,18
-Algeria,Africa,20200304,Algeria,,11,28.0339,1.6596,#C8BDFF,7,19
-Italy,Europe,20200305,Italy,,5198,43,12,#C8BDFF,769,1
-Iran,Asia,20200305,Iran,,1365,32,53,#C8BDFF,591,2
-Germany,Europe,20200305,Germany,,1597,51,9,#C8BDFF,220,3
-China,Asia,20200305,China,,15136,19.1959,101.0583,#C8BDFF,151,4
-France,Europe,20200305,France,,1383,-17.6797,-53,#C8BDFF,92,5
-US,North America,20200305,US,,548,18.2208,-102.2548,#C8BDFF,68,6
-Sweden,Europe,20200305,Sweden,,215,63,16,#C8BDFF,59,7
-Netherlands,Europe,20200305,Netherlands,,301,52.1326,5.2913,#C8BDFF,44,8
-Spain,Europe,20200305,Spain,,2955,40,-4,#C8BDFF,37,9
-Norway,Europe,20200305,Norway,,294,60.472,8.4689,#C8BDFF,31,10
-Japan,Asia,20200305,Japan,,72,36,138,#C8BDFF,29,11
-Belgium,Europe,20200305,Belgium,,245,50.8333,4,#C8BDFF,27,12
-Switzerland,Europe,20200305,Switzerland,,487,46.8182,8.2275,#C8BDFF,24,13
-Greece,Europe,20200305,Greece,,91,39.0742,21.8243,#C8BDFF,22,14
-Austria,Europe,20200305,Austria,,202,47.5162,14.5501,#C8BDFF,12,15
-Iceland,Europe,20200305,Iceland,,31,64.9631,-19.0208,#C8BDFF,8,16
-Singapore,Asia,20200305,Singapore,,22,1.2833,103.8333,#C8BDFF,7,17
-Finland,Europe,20200305,Finland,,96,64,26,#C8BDFF,6,18
-Israel,Asia,20200305,Israel,,32,31,35,#C8BDFF,5,19
-Iran,Asia,20200306,Iran,,1365,32,53,#C8BDFF,1234,1
-Italy,Europe,20200306,Italy,,5198,43,12,#C8BDFF,778,2
-France,Europe,20200306,France,,1383,-17.6797,-53,#C8BDFF,276,3
-Germany,Europe,20200306,Germany,,1597,51,9,#C8BDFF,188,4
-China,Asia,20200306,China,,15136,19.1959,101.0583,#C8BDFF,153,5
-Spain,Europe,20200306,Spain,,2955,40,-4,#C8BDFF,141,6
-Switzerland,Europe,20200306,Switzerland,,487,46.8182,8.2275,#C8BDFF,100,7
-Japan,Asia,20200306,Japan,,72,36,138,#C8BDFF,60,8
-Belgium,Europe,20200306,Belgium,,245,50.8333,4,#C8BDFF,59,9
-Netherlands,Europe,20200306,Netherlands,,301,52.1326,5.2913,#C8BDFF,46,10
-US,North America,20200306,US,,548,18.2208,-102.2548,#C8BDFF,45,11
-Malaysia,Asia,20200306,Malaysia,,48,2.5,112.5,#C8BDFF,33,12
-Norway,Europe,20200306,Norway,,294,60.472,8.4689,#C8BDFF,21,13
-Israel,Asia,20200306,Israel,,32,31,35,#C8BDFF,17,14
-Austria,Europe,20200306,Austria,,202,47.5162,14.5501,#C8BDFF,14,15
-Greece,Europe,20200306,Greece,,91,39.0742,21.8243,#C8BDFF,14,16
-Denmark,Europe,20200306,Denmark,,187,56.2639,-6.9118,#C8BDFF,13,17
-Singapore,Asia,20200306,Singapore,,22,1.2833,103.8333,#C8BDFF,13,18
-Canada,North America,20200306,Canada,,76,37.6489,-106.4509,#C8BDFF,12,19
-Italy,Europe,20200307,Italy,,5198,43,12,#C8BDFF,1247,1
-Iran,Asia,20200307,Iran,,1365,32,53,#C8BDFF,1076,2
-France,Europe,20200307,France,,1383,-17.6797,-53,#C8BDFF,296,3
-US,North America,20200307,US,,548,18.2208,-102.2548,#C8BDFF,140,4
-Germany,Europe,20200307,Germany,,1597,51,9,#C8BDFF,129,5
-Spain,Europe,20200307,Spain,,2955,40,-4,#C8BDFF,100,6
-China,Asia,20200307,China,,15136,19.1959,101.0583,#C8BDFF,80,7
-Belgium,Europe,20200307,Belgium,,245,50.8333,4,#C8BDFF,60,8
-Netherlands,Europe,20200307,Netherlands,,301,52.1326,5.2913,#C8BDFF,60,9
-Sweden,Europe,20200307,Sweden,,215,63,16,#C8BDFF,60,10
-Switzerland,Europe,20200307,Switzerland,,487,46.8182,8.2275,#C8BDFF,54,11
-Japan,Asia,20200307,Japan,,72,36,138,#C8BDFF,41,12
-Norway,Europe,20200307,Norway,,294,60.472,8.4689,#C8BDFF,39,13
-Bahrain,Asia,20200307,Bahrain,,85,26.0275,50.55,#C8BDFF,25,14
-Austria,Europe,20200307,Austria,,202,47.5162,14.5501,#C8BDFF,24,15
-United Arab Emirates,Asia,20200307,United Arab Emirates,,29,24,54,#C8BDFF,16,16
-Iraq,Asia,20200307,Iraq,,30,33,44,#C8BDFF,14,17
-Malaysia,Asia,20200307,Malaysia,,48,2.5,112.5,#C8BDFF,10,18
-Singapore,Asia,20200307,Singapore,,22,1.2833,103.8333,#C8BDFF,8,19
-Italy,Europe,20200308,Italy,,5198,43,12,#C8BDFF,1492,1
-Iran,Asia,20200308,Iran,,1365,32,53,#C8BDFF,743,2
-Germany,Europe,20200308,Germany,,1597,51,9,#C8BDFF,241,3
-France,Europe,20200308,France,,1383,-17.6797,-53,#C8BDFF,177,4
-Spain,Europe,20200308,Spain,,2955,40,-4,#C8BDFF,173,5
-US,North America,20200308,US,,548,18.2208,-102.2548,#C8BDFF,116,6
-Netherlands,Europe,20200308,Netherlands,,301,52.1326,5.2913,#C8BDFF,77,7
-Switzerland,Europe,20200308,Switzerland,,487,46.8182,8.2275,#C8BDFF,69,8
-China,Asia,20200308,China,,15136,19.1959,101.0583,#C8BDFF,53,9
-Sweden,Europe,20200308,Sweden,,215,63,16,#C8BDFF,42,10
-Japan,Asia,20200308,Japan,,72,36,138,#C8BDFF,41,11
-Egypt,Africa,20200308,Egypt,,34,26,30,#C8BDFF,34,12
-Belgium,Europe,20200308,Belgium,,245,50.8333,4,#C8BDFF,31,13
-Norway,Europe,20200308,Norway,,294,60.472,8.4689,#C8BDFF,29,14
-Greece,Europe,20200308,Greece,,91,39.0742,21.8243,#C8BDFF,27,15
-Austria,Europe,20200308,Austria,,202,47.5162,14.5501,#C8BDFF,25,16
-Israel,Asia,20200308,Israel,,32,31,35,#C8BDFF,18,17
-Australia,Oceania,20200308,Australia,,72,-12.4634,115.8605,#C8BDFF,13,18
-Denmark,Europe,20200308,Denmark,,187,56.2639,-6.9118,#C8BDFF,13,19
-Italy,Europe,20200309,Italy,,5198,43,12,#C8BDFF,1797,1
-Iran,Asia,20200309,Iran,,1365,32,53,#C8BDFF,595,2
-Spain,Europe,20200309,Spain,,2955,40,-4,#C8BDFF,400,3
-Germany,Europe,20200309,Germany,,1597,51,9,#C8BDFF,136,4
-France,Europe,20200309,France,,1383,-17.6797,-53,#C8BDFF,83,5
-US,North America,20200309,US,,548,18.2208,-102.2548,#C8BDFF,65,6
-Netherlands,Europe,20200309,Netherlands,,301,52.1326,5.2913,#C8BDFF,56,7
-Denmark,Europe,20200309,Denmark,,187,56.2639,-6.9118,#C8BDFF,55,8
-Sweden,Europe,20200309,Sweden,,215,63,16,#C8BDFF,45,9
-Belgium,Europe,20200309,Belgium,,245,50.8333,4,#C8BDFF,39,10
-China,Asia,20200309,China,,15136,19.1959,101.0583,#C8BDFF,37,11
-Switzerland,Europe,20200309,Switzerland,,487,46.8182,8.2275,#C8BDFF,37,12
-Norway,Europe,20200309,Norway,,294,60.472,8.4689,#C8BDFF,29,13
-Austria,Europe,20200309,Austria,,202,47.5162,14.5501,#C8BDFF,27,14
-Malaysia,Asia,20200309,Malaysia,,48,2.5,112.5,#C8BDFF,18,15
-Australia,Oceania,20200309,Australia,,72,-12.4634,115.8605,#C8BDFF,15,16
-Canada,North America,20200309,Canada,,76,37.6489,-106.4509,#C8BDFF,13,17
-Indonesia,Asia,20200309,Indonesia,,35,-0.7893,113.9213,#C8BDFF,13,18
-Bahrain,Asia,20200309,Bahrain,,85,26.0275,50.55,#C8BDFF,10,19
-Italy,Europe,20200310,Italy,,5198,43,12,#C8BDFF,977,1
-Iran,Asia,20200310,Iran,,1365,32,53,#C8BDFF,881,2
-Spain,Europe,20200310,Spain,,2955,40,-4,#C8BDFF,622,3
-France,Europe,20200310,France,,1383,-17.6797,-53,#C8BDFF,575,4
-US,North America,20200310,US,,548,18.2208,-102.2548,#C8BDFF,376,5
-Germany,Europe,20200310,Germany,,1597,51,9,#C8BDFF,281,6
-Norway,Europe,20200310,Norway,,294,60.472,8.4689,#C8BDFF,195,7
-Denmark,Europe,20200310,Denmark,,187,56.2639,-6.9118,#C8BDFF,172,8
-Switzerland,Europe,20200310,Switzerland,,487,46.8182,8.2275,#C8BDFF,117,9
-Sweden,Europe,20200310,Sweden,,215,63,16,#C8BDFF,107,10
-Japan,Asia,20200310,Japan,,72,36,138,#C8BDFF,70,11
-Netherlands,Europe,20200310,Netherlands,,301,52.1326,5.2913,#C8BDFF,61,12
-Austria,Europe,20200310,Austria,,202,47.5162,14.5501,#C8BDFF,51,13
-United Arab Emirates,Asia,20200310,United Arab Emirates,,29,24,54,#C8BDFF,29,14
-Belgium,Europe,20200310,Belgium,,245,50.8333,4,#C8BDFF,28,15
-China,Asia,20200310,China,,15136,19.1959,101.0583,#C8BDFF,27,16
-Israel,Asia,20200310,Israel,,32,31,35,#C8BDFF,22,17
-Australia,Oceania,20200310,Australia,,72,-12.4634,115.8605,#C8BDFF,16,18
-Greece,Europe,20200310,Greece,,91,39.0742,21.8243,#C8BDFF,16,19
-Italy,Europe,20200311,Italy,,5198,43,12,#C8BDFF,2313,1
-Iran,Asia,20200311,Iran,,1365,32,53,#C8BDFF,958,2
-Spain,Europe,20200311,Spain,,2955,40,-4,#C8BDFF,582,3
-France,Europe,20200311,France,,1383,-17.6797,-53,#C8BDFF,497,4
-Germany,Europe,20200311,Germany,,1597,51,9,#C8BDFF,451,5
-US,North America,20200311,US,,548,18.2208,-102.2548,#C8BDFF,322,6
-Qatar,Asia,20200311,Qatar,,238,25.3548,51.1839,#C8BDFF,238,7
-Norway,Europe,20200311,Norway,,294,60.472,8.4689,#C8BDFF,198,8
-Denmark,Europe,20200311,Denmark,,187,56.2639,-6.9118,#C8BDFF,180,9
-Switzerland,Europe,20200311,Switzerland,,487,46.8182,8.2275,#C8BDFF,161,10
-Sweden,Europe,20200311,Sweden,,215,63,16,#C8BDFF,145,11
-Netherlands,Europe,20200311,Netherlands,,301,52.1326,5.2913,#C8BDFF,121,12
-Bahrain,Asia,20200311,Bahrain,,85,26.0275,50.55,#C8BDFF,85,13
-Austria,Europe,20200311,Austria,,202,47.5162,14.5501,#C8BDFF,64,14
-Japan,Asia,20200311,Japan,,72,36,138,#C8BDFF,58,15
-Belgium,Europe,20200311,Belgium,,245,50.8333,4,#C8BDFF,47,16
-China,Asia,20200311,China,,15136,19.1959,101.0583,#C8BDFF,34,17
-Canada,North America,20200311,Canada,,76,37.6489,-106.4509,#C8BDFF,29,18
-Israel,Asia,20200311,Israel,,32,31,35,#C8BDFF,26,19
-Iran,Asia,20200312,Iran,,1365,32,53,#C8BDFF,1075,1
-US,North America,20200312,US,,548,18.2208,-102.2548,#C8BDFF,382,2
-Denmark,Europe,20200312,Denmark,,187,56.2639,-6.9118,#C8BDFF,173,3
-Germany,Europe,20200312,Germany,,1597,51,9,#C8BDFF,170,4
-Norway,Europe,20200312,Norway,,294,60.472,8.4689,#C8BDFF,104,5
-Sweden,Europe,20200312,Sweden,,215,63,16,#C8BDFF,99,6
-Austria,Europe,20200312,Austria,,202,47.5162,14.5501,#C8BDFF,56,7
-Slovenia,Europe,20200312,Slovenia,,52,46.1512,14.9955,#C8BDFF,32,8
-Saudi Arabia,Asia,20200312,Saudi Arabia,,41,24,45,#C8BDFF,24,9
-Israel,Asia,20200312,Israel,,32,31,35,#C8BDFF,22,10
-Iceland,Europe,20200312,Iceland,,31,64.9631,-19.0208,#C8BDFF,18,11
-Poland,Europe,20200312,Poland,,35,51.9194,19.1451,#C8BDFF,18,12
-Brazil,South America,20200312,Brazil,,99,-14.235,-51.9253,#C8BDFF,14,13
-Luxembourg,Europe,20200312,Luxembourg,,17,49.8153,6.1296,#C8BDFF,12,14
-Albania,Europe,20200312,Albania,,11,41.1533,20.1683,#C8BDFF,11,15
-China,Asia,20200312,China,,15136,19.1959,101.0583,#C8BDFF,11,16
-India,Asia,20200312,India,,23,21,78,#C8BDFF,11,17
-Thailand,Asia,20200312,Thailand,,11,15,101,#C8BDFF,11,18
-United Arab Emirates,Asia,20200312,United Arab Emirates,,29,24,54,#C8BDFF,11,19
-Italy,Europe,20200313,Italy,,5198,43,12,#C8BDFF,5198,1
-Spain,Europe,20200313,Spain,,2955,40,-4,#C8BDFF,2955,2
-Germany,Europe,20200313,Germany,,1597,51,9,#C8BDFF,1597,3
-France,Europe,20200313,France,,1383,-17.6797,-53,#C8BDFF,1383,4
-Iran,Asia,20200313,Iran,,1365,32,53,#C8BDFF,1289,5
-US,North America,20200313,US,,548,18.2208,-102.2548,#C8BDFF,516,6
-Switzerland,Europe,20200313,Switzerland,,487,46.8182,8.2275,#C8BDFF,487,7
-Netherlands,Europe,20200313,Netherlands,,301,52.1326,5.2913,#C8BDFF,301,8
-Norway,Europe,20200313,Norway,,294,60.472,8.4689,#C8BDFF,294,9
-Belgium,Europe,20200313,Belgium,,245,50.8333,4,#C8BDFF,245,10
-Sweden,Europe,20200313,Sweden,,215,63,16,#C8BDFF,215,11
-Austria,Europe,20200313,Austria,,202,47.5162,14.5501,#C8BDFF,202,12
-Denmark,Europe,20200313,Denmark,,187,56.2639,-6.9118,#C8BDFF,187,13
-Brazil,South America,20200313,Brazil,,99,-14.235,-51.9253,#C8BDFF,99,14
-Finland,Europe,20200313,Finland,,96,64,26,#C8BDFF,96,15
-Greece,Europe,20200313,Greece,,91,39.0742,21.8243,#C8BDFF,91,16
-Canada,North America,20200313,Canada,,76,37.6489,-106.4509,#C8BDFF,76,17
-Australia,Oceania,20200313,Australia,,72,-12.4634,115.8605,#C8BDFF,72,18
-Estonia,Europe,20200313,Estonia,,63,58.5953,25.0136,#C8BDFF,63,19
-Italy,Europe,20200314,Italy,,5198,43,12,#C8BDFF,3497,1
-Iran,Asia,20200314,Iran,,1365,32,53,#C8BDFF,1365,2
-Spain,Europe,20200314,Spain,,2955,40,-4,#C8BDFF,1159,3
-Germany,Europe,20200314,Germany,,1597,51,9,#C8BDFF,910,4
-France,Europe,20200314,France,,1383,-17.6797,-53,#C8BDFF,813,5
-US,North America,20200314,US,,548,18.2208,-102.2548,#C8BDFF,548,6
-Switzerland,Europe,20200314,Switzerland,,487,46.8182,8.2275,#C8BDFF,220,7
-Netherlands,Europe,20200314,Netherlands,,301,52.1326,5.2913,#C8BDFF,155,8
-Austria,Europe,20200314,Austria,,202,47.5162,14.5501,#C8BDFF,151,9
-Sweden,Europe,20200314,Sweden,,215,63,16,#C8BDFF,147,10
-Belgium,Europe,20200314,Belgium,,245,50.8333,4,#C8BDFF,130,11
-Norway,Europe,20200314,Norway,,294,60.472,8.4689,#C8BDFF,94,12
-Japan,Asia,20200314,Japan,,72,36,138,#C8BDFF,72,13
-Finland,Europe,20200314,Finland,,96,64,26,#C8BDFF,70,14
-Portugal,Europe,20200314,Portugal,,57,39.3999,-8.2245,#C8BDFF,57,15
-Australia,Oceania,20200314,Australia,,72,-12.4634,115.8605,#C8BDFF,50,16
-Philippines,Asia,20200314,Philippines,,47,13,122,#C8BDFF,47,17
-Malaysia,Asia,20200314,Malaysia,,48,2.5,112.5,#C8BDFF,41,18
-Slovenia,Europe,20200314,Slovenia,,52,46.1512,14.9955,#C8BDFF,40,19
+country,continent,date,value,subgroup,lastValue,lat,lon,colour,new_daily_cases,rank
+China,Asia,20200122,548,China,15136,19.1959,101.0583,#C8BDFF,548,1
+Japan,Asia,20200122,2,Japan,72,36,138,#C8BDFF,2,2
+Thailand,Asia,20200122,2,Thailand,11,15,101,#C8BDFF,2,3
+US,North America,20200122,1,US,548,18.2208,-102.2548,#C8BDFF,1,4
+Afghanistan,Asia,20200122,0,Afghanistan,4,33,65,#C8BDFF,0,5
+Albania,Europe,20200122,0,Albania,11,41.1533,20.1683,#C8BDFF,0,6
+Algeria,Africa,20200122,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,7
+Andorra,Europe,20200122,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,8
+Antigua and Barbuda,North America,20200122,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,9
+Argentina,South America,20200122,0,Argentina,12,-38.4161,-63.6167,#C8BDFF,0,10
+Armenia,Europe,20200122,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,11
+Armenia,Asia,20200122,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,12
+Aruba,North America,20200122,0,Aruba,2,12.5211,-69.9683,#C8BDFF,0,13
+Australia,Oceania,20200122,0,Australia,72,-12.4634,115.8605,#C8BDFF,0,14
+Austria,Europe,20200122,0,Austria,202,47.5162,14.5501,#C8BDFF,0,15
+Azerbaijan,Europe,20200122,0,Azerbaijan,4,40.1431,47.5769,#C8BDFF,0,16
+Azerbaijan,Asia,20200122,0,Azerbaijan,4,40.1431,47.5769,#C8BDFF,0,17
+Bahrain,Asia,20200122,0,Bahrain,85,26.0275,50.55,#C8BDFF,0,18
+Bangladesh,Asia,20200122,0,Bangladesh,3,23.685,90.3563,#C8BDFF,0,19
+China,Asia,20200123,643,China,15136,19.1959,101.0583,#C8BDFF,95,1
+Thailand,Asia,20200123,3,Thailand,11,15,101,#C8BDFF,1,2
+Vietnam,Asia,20200123,2,Vietnam,12,16,108,#C8BDFF,2,3
+Japan,Asia,20200123,1,Japan,72,36,138,#C8BDFF,-1,4
+Singapore,Asia,20200123,1,Singapore,22,1.2833,103.8333,#C8BDFF,1,5
+US,North America,20200123,1,US,548,18.2208,-102.2548,#C8BDFF,0,6
+Afghanistan,Asia,20200123,0,Afghanistan,4,33,65,#C8BDFF,0,7
+Albania,Europe,20200123,0,Albania,11,41.1533,20.1683,#C8BDFF,0,8
+Algeria,Africa,20200123,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,9
+Andorra,Europe,20200123,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,10
+Antigua and Barbuda,North America,20200123,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,11
+Argentina,South America,20200123,0,Argentina,12,-38.4161,-63.6167,#C8BDFF,0,12
+Armenia,Europe,20200123,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,13
+Armenia,Asia,20200123,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,14
+Aruba,North America,20200123,0,Aruba,2,12.5211,-69.9683,#C8BDFF,0,15
+Australia,Oceania,20200123,0,Australia,72,-12.4634,115.8605,#C8BDFF,0,16
+Austria,Europe,20200123,0,Austria,202,47.5162,14.5501,#C8BDFF,0,17
+Azerbaijan,Europe,20200123,0,Azerbaijan,4,40.1431,47.5769,#C8BDFF,0,18
+Azerbaijan,Asia,20200123,0,Azerbaijan,4,40.1431,47.5769,#C8BDFF,0,19
+China,Asia,20200124,920,China,15136,19.1959,101.0583,#C8BDFF,277,1
+Thailand,Asia,20200124,5,Thailand,11,15,101,#C8BDFF,2,2
+Singapore,Asia,20200124,3,Singapore,22,1.2833,103.8333,#C8BDFF,2,3
+France,Europe,20200124,2,France,1383,-17.6797,-53,#C8BDFF,2,4
+Japan,Asia,20200124,2,Japan,72,36,138,#C8BDFF,1,5
+US,North America,20200124,2,US,548,18.2208,-102.2548,#C8BDFF,1,6
+Vietnam,Asia,20200124,2,Vietnam,12,16,108,#C8BDFF,0,7
+Afghanistan,Asia,20200124,0,Afghanistan,4,33,65,#C8BDFF,0,8
+Albania,Europe,20200124,0,Albania,11,41.1533,20.1683,#C8BDFF,0,9
+Algeria,Africa,20200124,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,10
+Andorra,Europe,20200124,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,11
+Antigua and Barbuda,North America,20200124,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,12
+Argentina,South America,20200124,0,Argentina,12,-38.4161,-63.6167,#C8BDFF,0,13
+Armenia,Europe,20200124,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,14
+Armenia,Asia,20200124,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,15
+Aruba,North America,20200124,0,Aruba,2,12.5211,-69.9683,#C8BDFF,0,16
+Australia,Oceania,20200124,0,Australia,72,-12.4634,115.8605,#C8BDFF,0,17
+Austria,Europe,20200124,0,Austria,202,47.5162,14.5501,#C8BDFF,0,18
+Azerbaijan,Europe,20200124,0,Azerbaijan,4,40.1431,47.5769,#C8BDFF,0,19
+China,Asia,20200125,1406,China,15136,19.1959,101.0583,#C8BDFF,486,1
+Thailand,Asia,20200125,7,Thailand,11,15,101,#C8BDFF,2,2
+France,Europe,20200125,3,France,1383,-17.6797,-53,#C8BDFF,1,3
+Malaysia,Asia,20200125,3,Malaysia,48,2.5,112.5,#C8BDFF,3,4
+Singapore,Asia,20200125,3,Singapore,22,1.2833,103.8333,#C8BDFF,0,5
+Japan,Asia,20200125,2,Japan,72,36,138,#C8BDFF,0,6
+US,North America,20200125,2,US,548,18.2208,-102.2548,#C8BDFF,0,7
+Vietnam,Asia,20200125,2,Vietnam,12,16,108,#C8BDFF,0,8
+Nepal,Asia,20200125,1,Nepal,1,28.1667,84.25,#C8BDFF,1,9
+Afghanistan,Asia,20200125,0,Afghanistan,4,33,65,#C8BDFF,0,10
+Albania,Europe,20200125,0,Albania,11,41.1533,20.1683,#C8BDFF,0,11
+Algeria,Africa,20200125,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,12
+Andorra,Europe,20200125,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,13
+Antigua and Barbuda,North America,20200125,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,14
+Argentina,South America,20200125,0,Argentina,12,-38.4161,-63.6167,#C8BDFF,0,15
+Armenia,Europe,20200125,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,16
+Armenia,Asia,20200125,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,17
+Aruba,North America,20200125,0,Aruba,2,12.5211,-69.9683,#C8BDFF,0,18
+Australia,Oceania,20200125,0,Australia,72,-12.4634,115.8605,#C8BDFF,0,19
+China,Asia,20200126,2075,China,15136,19.1959,101.0583,#C8BDFF,669,1
+Thailand,Asia,20200126,8,Thailand,11,15,101,#C8BDFF,1,2
+US,North America,20200126,5,US,548,18.2208,-102.2548,#C8BDFF,3,3
+Australia,Oceania,20200126,4,Australia,72,-12.4634,115.8605,#C8BDFF,4,4
+Japan,Asia,20200126,4,Japan,72,36,138,#C8BDFF,2,5
+Malaysia,Asia,20200126,4,Malaysia,48,2.5,112.5,#C8BDFF,1,6
+Singapore,Asia,20200126,4,Singapore,22,1.2833,103.8333,#C8BDFF,1,7
+France,Europe,20200126,3,France,1383,-17.6797,-53,#C8BDFF,0,8
+Vietnam,Asia,20200126,2,Vietnam,12,16,108,#C8BDFF,0,9
+Canada,North America,20200126,1,Canada,76,37.6489,-106.4509,#C8BDFF,1,10
+Nepal,Asia,20200126,1,Nepal,1,28.1667,84.25,#C8BDFF,0,11
+Afghanistan,Asia,20200126,0,Afghanistan,4,33,65,#C8BDFF,0,12
+Albania,Europe,20200126,0,Albania,11,41.1533,20.1683,#C8BDFF,0,13
+Algeria,Africa,20200126,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,14
+Andorra,Europe,20200126,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,15
+Antigua and Barbuda,North America,20200126,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,16
+Argentina,South America,20200126,0,Argentina,12,-38.4161,-63.6167,#C8BDFF,0,17
+Armenia,Europe,20200126,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,18
+Armenia,Asia,20200126,0,Armenia,10,40.0691,45.0382,#C8BDFF,0,19
+China,Asia,20200127,2877,China,15136,19.1959,101.0583,#C8BDFF,802,1
+Thailand,Asia,20200127,8,Thailand,11,15,101,#C8BDFF,0,2
+Australia,Oceania,20200127,5,Australia,72,-12.4634,115.8605,#C8BDFF,1,3
+Singapore,Asia,20200127,5,Singapore,22,1.2833,103.8333,#C8BDFF,1,4
+US,North America,20200127,5,US,548,18.2208,-102.2548,#C8BDFF,0,5
+Japan,Asia,20200127,4,Japan,72,36,138,#C8BDFF,0,6
+Malaysia,Asia,20200127,4,Malaysia,48,2.5,112.5,#C8BDFF,0,7
+France,Europe,20200127,3,France,1383,-17.6797,-53,#C8BDFF,0,8
+Vietnam,Asia,20200127,2,Vietnam,12,16,108,#C8BDFF,0,9
+Cambodia,Asia,20200127,1,Cambodia,2,11.55,104.9167,#C8BDFF,1,10
+Canada,North America,20200127,1,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+Germany,Europe,20200127,1,Germany,1597,51,9,#C8BDFF,1,12
+Nepal,Asia,20200127,1,Nepal,1,28.1667,84.25,#C8BDFF,0,13
+Sri Lanka,Asia,20200127,1,Sri Lanka,4,7,81,#C8BDFF,1,14
+Afghanistan,Asia,20200127,0,Afghanistan,4,33,65,#C8BDFF,0,15
+Albania,Europe,20200127,0,Albania,11,41.1533,20.1683,#C8BDFF,0,16
+Algeria,Africa,20200127,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,17
+Andorra,Europe,20200127,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,18
+Antigua and Barbuda,North America,20200127,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,19
+China,Asia,20200128,5509,China,15136,19.1959,101.0583,#C8BDFF,2632,1
+Thailand,Asia,20200128,14,Thailand,11,15,101,#C8BDFF,6,2
+Japan,Asia,20200128,7,Japan,72,36,138,#C8BDFF,3,3
+Singapore,Asia,20200128,7,Singapore,22,1.2833,103.8333,#C8BDFF,2,4
+Australia,Oceania,20200128,5,Australia,72,-12.4634,115.8605,#C8BDFF,0,5
+US,North America,20200128,5,US,548,18.2208,-102.2548,#C8BDFF,0,6
+France,Europe,20200128,4,France,1383,-17.6797,-53,#C8BDFF,1,7
+Germany,Europe,20200128,4,Germany,1597,51,9,#C8BDFF,3,8
+Malaysia,Asia,20200128,4,Malaysia,48,2.5,112.5,#C8BDFF,0,9
+Canada,North America,20200128,2,Canada,76,37.6489,-106.4509,#C8BDFF,1,10
+Vietnam,Asia,20200128,2,Vietnam,12,16,108,#C8BDFF,0,11
+Cambodia,Asia,20200128,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,12
+Nepal,Asia,20200128,1,Nepal,1,28.1667,84.25,#C8BDFF,0,13
+Sri Lanka,Asia,20200128,1,Sri Lanka,4,7,81,#C8BDFF,0,14
+Afghanistan,Asia,20200128,0,Afghanistan,4,33,65,#C8BDFF,0,15
+Albania,Europe,20200128,0,Albania,11,41.1533,20.1683,#C8BDFF,0,16
+Algeria,Africa,20200128,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,17
+Andorra,Europe,20200128,0,Andorra,1,42.5063,1.5218,#C8BDFF,0,18
+Antigua and Barbuda,North America,20200128,0,Antigua and Barbuda,1,17.0608,-61.7964,#C8BDFF,0,19
+China,Asia,20200129,6087,China,15136,19.1959,101.0583,#C8BDFF,578,1
+Thailand,Asia,20200129,14,Thailand,11,15,101,#C8BDFF,0,2
+Japan,Asia,20200129,7,Japan,72,36,138,#C8BDFF,0,3
+Malaysia,Asia,20200129,7,Malaysia,48,2.5,112.5,#C8BDFF,3,4
+Singapore,Asia,20200129,7,Singapore,22,1.2833,103.8333,#C8BDFF,0,5
+Australia,Oceania,20200129,6,Australia,72,-12.4634,115.8605,#C8BDFF,1,6
+France,Europe,20200129,5,France,1383,-17.6797,-53,#C8BDFF,1,7
+US,North America,20200129,5,US,548,18.2208,-102.2548,#C8BDFF,0,8
+Germany,Europe,20200129,4,Germany,1597,51,9,#C8BDFF,0,9
+United Arab Emirates,Asia,20200129,4,United Arab Emirates,29,24,54,#C8BDFF,4,10
+Canada,North America,20200129,2,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+Vietnam,Asia,20200129,2,Vietnam,12,16,108,#C8BDFF,0,12
+Cambodia,Asia,20200129,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,13
+Finland,Europe,20200129,1,Finland,96,64,26,#C8BDFF,1,14
+Nepal,Asia,20200129,1,Nepal,1,28.1667,84.25,#C8BDFF,0,15
+Sri Lanka,Asia,20200129,1,Sri Lanka,4,7,81,#C8BDFF,0,16
+Afghanistan,Asia,20200129,0,Afghanistan,4,33,65,#C8BDFF,0,17
+Albania,Europe,20200129,0,Albania,11,41.1533,20.1683,#C8BDFF,0,18
+Algeria,Africa,20200129,0,Algeria,11,28.0339,1.6596,#C8BDFF,0,19
+China,Asia,20200130,8141,China,15136,19.1959,101.0583,#C8BDFF,2054,1
+Thailand,Asia,20200130,14,Thailand,11,15,101,#C8BDFF,0,2
+Japan,Asia,20200130,11,Japan,72,36,138,#C8BDFF,4,3
+Singapore,Asia,20200130,10,Singapore,22,1.2833,103.8333,#C8BDFF,3,4
+Australia,Oceania,20200130,9,Australia,72,-12.4634,115.8605,#C8BDFF,3,5
+Malaysia,Asia,20200130,8,Malaysia,48,2.5,112.5,#C8BDFF,1,6
+France,Europe,20200130,5,France,1383,-17.6797,-53,#C8BDFF,0,7
+US,North America,20200130,5,US,548,18.2208,-102.2548,#C8BDFF,0,8
+Germany,Europe,20200130,4,Germany,1597,51,9,#C8BDFF,0,9
+United Arab Emirates,Asia,20200130,4,United Arab Emirates,29,24,54,#C8BDFF,0,10
+Canada,North America,20200130,2,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+Vietnam,Asia,20200130,2,Vietnam,12,16,108,#C8BDFF,0,12
+Cambodia,Asia,20200130,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,13
+Finland,Europe,20200130,1,Finland,96,64,26,#C8BDFF,0,14
+India,Asia,20200130,1,India,23,21,78,#C8BDFF,1,15
+Nepal,Asia,20200130,1,Nepal,1,28.1667,84.25,#C8BDFF,0,16
+Philippines,Asia,20200130,1,Philippines,47,13,122,#C8BDFF,1,17
+Sri Lanka,Asia,20200130,1,Sri Lanka,4,7,81,#C8BDFF,0,18
+Afghanistan,Asia,20200130,0,Afghanistan,4,33,65,#C8BDFF,0,19
+China,Asia,20200131,9802,China,15136,19.1959,101.0583,#C8BDFF,1661,1
+Thailand,Asia,20200131,19,Thailand,11,15,101,#C8BDFF,5,2
+Japan,Asia,20200131,15,Japan,72,36,138,#C8BDFF,4,3
+Singapore,Asia,20200131,13,Singapore,22,1.2833,103.8333,#C8BDFF,3,4
+Australia,Oceania,20200131,9,Australia,72,-12.4634,115.8605,#C8BDFF,0,5
+Malaysia,Asia,20200131,8,Malaysia,48,2.5,112.5,#C8BDFF,0,6
+US,North America,20200131,7,US,548,18.2208,-102.2548,#C8BDFF,2,7
+France,Europe,20200131,5,France,1383,-17.6797,-53,#C8BDFF,0,8
+Germany,Europe,20200131,5,Germany,1597,51,9,#C8BDFF,1,9
+Canada,North America,20200131,4,Canada,76,37.6489,-106.4509,#C8BDFF,2,10
+United Arab Emirates,Asia,20200131,4,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Italy,Europe,20200131,2,Italy,5198,43,12,#C8BDFF,2,12
+Vietnam,Asia,20200131,2,Vietnam,12,16,108,#C8BDFF,0,13
+Cambodia,Asia,20200131,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,14
+Finland,Europe,20200131,1,Finland,96,64,26,#C8BDFF,0,15
+India,Asia,20200131,1,India,23,21,78,#C8BDFF,0,16
+Nepal,Asia,20200131,1,Nepal,1,28.1667,84.25,#C8BDFF,0,17
+Philippines,Asia,20200131,1,Philippines,47,13,122,#C8BDFF,0,18
+Sri Lanka,Asia,20200131,1,Sri Lanka,4,7,81,#C8BDFF,0,19
+China,Asia,20200201,11891,China,15136,19.1959,101.0583,#C8BDFF,2089,1
+Japan,Asia,20200201,20,Japan,72,36,138,#C8BDFF,5,2
+Thailand,Asia,20200201,19,Thailand,11,15,101,#C8BDFF,0,3
+Singapore,Asia,20200201,16,Singapore,22,1.2833,103.8333,#C8BDFF,3,4
+Australia,Oceania,20200201,12,Australia,72,-12.4634,115.8605,#C8BDFF,3,5
+Germany,Europe,20200201,8,Germany,1597,51,9,#C8BDFF,3,6
+Malaysia,Asia,20200201,8,Malaysia,48,2.5,112.5,#C8BDFF,0,7
+US,North America,20200201,8,US,548,18.2208,-102.2548,#C8BDFF,1,8
+France,Europe,20200201,6,France,1383,-17.6797,-53,#C8BDFF,1,9
+Vietnam,Asia,20200201,6,Vietnam,12,16,108,#C8BDFF,4,10
+Canada,North America,20200201,4,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+United Arab Emirates,Asia,20200201,4,United Arab Emirates,29,24,54,#C8BDFF,0,12
+Italy,Europe,20200201,2,Italy,5198,43,12,#C8BDFF,0,13
+Cambodia,Asia,20200201,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,14
+Finland,Europe,20200201,1,Finland,96,64,26,#C8BDFF,0,15
+India,Asia,20200201,1,India,23,21,78,#C8BDFF,0,16
+Nepal,Asia,20200201,1,Nepal,1,28.1667,84.25,#C8BDFF,0,17
+Philippines,Asia,20200201,1,Philippines,47,13,122,#C8BDFF,0,18
+Spain,Europe,20200201,1,Spain,2955,40,-4,#C8BDFF,1,19
+China,Asia,20200202,16630,China,15136,19.1959,101.0583,#C8BDFF,4739,1
+Japan,Asia,20200202,20,Japan,72,36,138,#C8BDFF,0,2
+Thailand,Asia,20200202,19,Thailand,11,15,101,#C8BDFF,0,3
+Singapore,Asia,20200202,18,Singapore,22,1.2833,103.8333,#C8BDFF,2,4
+Australia,Oceania,20200202,12,Australia,72,-12.4634,115.8605,#C8BDFF,0,5
+Germany,Europe,20200202,10,Germany,1597,51,9,#C8BDFF,2,6
+Malaysia,Asia,20200202,8,Malaysia,48,2.5,112.5,#C8BDFF,0,7
+US,North America,20200202,8,US,548,18.2208,-102.2548,#C8BDFF,0,8
+France,Europe,20200202,6,France,1383,-17.6797,-53,#C8BDFF,0,9
+Vietnam,Asia,20200202,6,Vietnam,12,16,108,#C8BDFF,0,10
+United Arab Emirates,Asia,20200202,5,United Arab Emirates,29,24,54,#C8BDFF,1,11
+Canada,North America,20200202,4,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200202,2,India,23,21,78,#C8BDFF,1,13
+Italy,Europe,20200202,2,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200202,2,Philippines,47,13,122,#C8BDFF,1,15
+Cambodia,Asia,20200202,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,16
+Finland,Europe,20200202,1,Finland,96,64,26,#C8BDFF,0,17
+Nepal,Asia,20200202,1,Nepal,1,28.1667,84.25,#C8BDFF,0,18
+Spain,Europe,20200202,1,Spain,2955,40,-4,#C8BDFF,0,19
+China,Asia,20200203,19716,China,15136,19.1959,101.0583,#C8BDFF,3086,1
+Japan,Asia,20200203,20,Japan,72,36,138,#C8BDFF,0,2
+Thailand,Asia,20200203,19,Thailand,11,15,101,#C8BDFF,0,3
+Singapore,Asia,20200203,18,Singapore,22,1.2833,103.8333,#C8BDFF,0,4
+Australia,Oceania,20200203,12,Australia,72,-12.4634,115.8605,#C8BDFF,0,5
+Germany,Europe,20200203,12,Germany,1597,51,9,#C8BDFF,2,6
+US,North America,20200203,11,US,548,18.2208,-102.2548,#C8BDFF,3,7
+Malaysia,Asia,20200203,8,Malaysia,48,2.5,112.5,#C8BDFF,0,8
+Vietnam,Asia,20200203,8,Vietnam,12,16,108,#C8BDFF,2,9
+France,Europe,20200203,6,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200203,5,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200203,4,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200203,3,India,23,21,78,#C8BDFF,1,13
+Italy,Europe,20200203,2,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200203,2,Philippines,47,13,122,#C8BDFF,0,15
+Cambodia,Asia,20200203,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,16
+Finland,Europe,20200203,1,Finland,96,64,26,#C8BDFF,0,17
+Nepal,Asia,20200203,1,Nepal,1,28.1667,84.25,#C8BDFF,0,18
+Spain,Europe,20200203,1,Spain,2955,40,-4,#C8BDFF,0,19
+China,Asia,20200204,23707,China,15136,19.1959,101.0583,#C8BDFF,3991,1
+Thailand,Asia,20200204,25,Thailand,11,15,101,#C8BDFF,6,2
+Singapore,Asia,20200204,24,Singapore,22,1.2833,103.8333,#C8BDFF,6,3
+Japan,Asia,20200204,22,Japan,72,36,138,#C8BDFF,2,4
+Australia,Oceania,20200204,13,Australia,72,-12.4634,115.8605,#C8BDFF,1,5
+Germany,Europe,20200204,12,Germany,1597,51,9,#C8BDFF,0,6
+US,North America,20200204,11,US,548,18.2208,-102.2548,#C8BDFF,0,7
+Malaysia,Asia,20200204,10,Malaysia,48,2.5,112.5,#C8BDFF,2,8
+Vietnam,Asia,20200204,8,Vietnam,12,16,108,#C8BDFF,0,9
+France,Europe,20200204,6,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200204,5,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200204,4,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200204,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200204,2,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200204,2,Philippines,47,13,122,#C8BDFF,0,15
+Belgium,Europe,20200204,1,Belgium,245,50.8333,4,#C8BDFF,1,16
+Cambodia,Asia,20200204,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,17
+Finland,Europe,20200204,1,Finland,96,64,26,#C8BDFF,0,18
+Nepal,Asia,20200204,1,Nepal,1,28.1667,84.25,#C8BDFF,0,19
+China,Asia,20200205,27440,China,15136,19.1959,101.0583,#C8BDFF,3733,1
+Singapore,Asia,20200205,28,Singapore,22,1.2833,103.8333,#C8BDFF,4,2
+Thailand,Asia,20200205,25,Thailand,11,15,101,#C8BDFF,0,3
+Japan,Asia,20200205,22,Japan,72,36,138,#C8BDFF,0,4
+Australia,Oceania,20200205,13,Australia,72,-12.4634,115.8605,#C8BDFF,0,5
+Germany,Europe,20200205,12,Germany,1597,51,9,#C8BDFF,0,6
+Malaysia,Asia,20200205,12,Malaysia,48,2.5,112.5,#C8BDFF,2,7
+US,North America,20200205,11,US,548,18.2208,-102.2548,#C8BDFF,0,8
+Vietnam,Asia,20200205,8,Vietnam,12,16,108,#C8BDFF,0,9
+France,Europe,20200205,6,France,1383,-17.6797,-53,#C8BDFF,0,10
+Canada,North America,20200205,5,Canada,76,37.6489,-106.4509,#C8BDFF,1,11
+United Arab Emirates,Asia,20200205,5,United Arab Emirates,29,24,54,#C8BDFF,0,12
+India,Asia,20200205,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200205,2,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200205,2,Philippines,47,13,122,#C8BDFF,0,15
+Belgium,Europe,20200205,1,Belgium,245,50.8333,4,#C8BDFF,0,16
+Cambodia,Asia,20200205,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,17
+Finland,Europe,20200205,1,Finland,96,64,26,#C8BDFF,0,18
+Nepal,Asia,20200205,1,Nepal,1,28.1667,84.25,#C8BDFF,0,19
+China,Asia,20200206,30587,China,15136,19.1959,101.0583,#C8BDFF,3147,1
+Japan,Asia,20200206,45,Japan,72,36,138,#C8BDFF,23,2
+Singapore,Asia,20200206,28,Singapore,22,1.2833,103.8333,#C8BDFF,0,3
+Thailand,Asia,20200206,25,Thailand,11,15,101,#C8BDFF,0,4
+Australia,Oceania,20200206,14,Australia,72,-12.4634,115.8605,#C8BDFF,1,5
+Germany,Europe,20200206,12,Germany,1597,51,9,#C8BDFF,0,6
+Malaysia,Asia,20200206,12,Malaysia,48,2.5,112.5,#C8BDFF,0,7
+US,North America,20200206,11,US,548,18.2208,-102.2548,#C8BDFF,0,8
+Vietnam,Asia,20200206,10,Vietnam,12,16,108,#C8BDFF,2,9
+France,Europe,20200206,6,France,1383,-17.6797,-53,#C8BDFF,0,10
+Canada,North America,20200206,5,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+United Arab Emirates,Asia,20200206,5,United Arab Emirates,29,24,54,#C8BDFF,0,12
+India,Asia,20200206,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200206,2,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200206,2,Philippines,47,13,122,#C8BDFF,0,15
+Belgium,Europe,20200206,1,Belgium,245,50.8333,4,#C8BDFF,0,16
+Cambodia,Asia,20200206,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,17
+Finland,Europe,20200206,1,Finland,96,64,26,#C8BDFF,0,18
+Nepal,Asia,20200206,1,Nepal,1,28.1667,84.25,#C8BDFF,0,19
+China,Asia,20200207,34110,China,15136,19.1959,101.0583,#C8BDFF,3523,1
+Singapore,Asia,20200207,30,Singapore,22,1.2833,103.8333,#C8BDFF,2,2
+Japan,Asia,20200207,25,Japan,72,36,138,#C8BDFF,-20,3
+Thailand,Asia,20200207,25,Thailand,11,15,101,#C8BDFF,0,4
+Australia,Oceania,20200207,15,Australia,72,-12.4634,115.8605,#C8BDFF,1,5
+Germany,Europe,20200207,13,Germany,1597,51,9,#C8BDFF,1,6
+Malaysia,Asia,20200207,12,Malaysia,48,2.5,112.5,#C8BDFF,0,7
+US,North America,20200207,11,US,548,18.2208,-102.2548,#C8BDFF,0,8
+Vietnam,Asia,20200207,10,Vietnam,12,16,108,#C8BDFF,0,9
+Canada,North America,20200207,7,Canada,76,37.6489,-106.4509,#C8BDFF,2,10
+France,Europe,20200207,6,France,1383,-17.6797,-53,#C8BDFF,0,11
+United Arab Emirates,Asia,20200207,5,United Arab Emirates,29,24,54,#C8BDFF,0,12
+India,Asia,20200207,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200207,3,Italy,5198,43,12,#C8BDFF,1,14
+Philippines,Asia,20200207,3,Philippines,47,13,122,#C8BDFF,1,15
+Belgium,Europe,20200207,1,Belgium,245,50.8333,4,#C8BDFF,0,16
+Cambodia,Asia,20200207,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,17
+Finland,Europe,20200207,1,Finland,96,64,26,#C8BDFF,0,18
+Nepal,Asia,20200207,1,Nepal,1,28.1667,84.25,#C8BDFF,0,19
+China,Asia,20200208,36814,China,15136,19.1959,101.0583,#C8BDFF,2704,1
+Singapore,Asia,20200208,33,Singapore,22,1.2833,103.8333,#C8BDFF,3,2
+Thailand,Asia,20200208,32,Thailand,11,15,101,#C8BDFF,7,3
+Japan,Asia,20200208,25,Japan,72,36,138,#C8BDFF,0,4
+Malaysia,Asia,20200208,16,Malaysia,48,2.5,112.5,#C8BDFF,4,5
+Australia,Oceania,20200208,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,6
+Germany,Europe,20200208,13,Germany,1597,51,9,#C8BDFF,0,7
+Vietnam,Asia,20200208,13,Vietnam,12,16,108,#C8BDFF,3,8
+France,Europe,20200208,11,France,1383,-17.6797,-53,#C8BDFF,5,9
+US,North America,20200208,11,US,548,18.2208,-102.2548,#C8BDFF,0,10
+Canada,North America,20200208,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+United Arab Emirates,Asia,20200208,7,United Arab Emirates,29,24,54,#C8BDFF,2,12
+India,Asia,20200208,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200208,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200208,3,Philippines,47,13,122,#C8BDFF,0,15
+Belgium,Europe,20200208,1,Belgium,245,50.8333,4,#C8BDFF,0,16
+Cambodia,Asia,20200208,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,17
+Finland,Europe,20200208,1,Finland,96,64,26,#C8BDFF,0,18
+Nepal,Asia,20200208,1,Nepal,1,28.1667,84.25,#C8BDFF,0,19
+China,Asia,20200209,39829,China,15136,19.1959,101.0583,#C8BDFF,3015,1
+Singapore,Asia,20200209,40,Singapore,22,1.2833,103.8333,#C8BDFF,7,2
+Thailand,Asia,20200209,32,Thailand,11,15,101,#C8BDFF,0,3
+Japan,Asia,20200209,26,Japan,72,36,138,#C8BDFF,1,4
+Malaysia,Asia,20200209,16,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Australia,Oceania,20200209,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,6
+Germany,Europe,20200209,14,Germany,1597,51,9,#C8BDFF,1,7
+Vietnam,Asia,20200209,13,Vietnam,12,16,108,#C8BDFF,0,8
+France,Europe,20200209,11,France,1383,-17.6797,-53,#C8BDFF,0,9
+US,North America,20200209,11,US,548,18.2208,-102.2548,#C8BDFF,0,10
+Canada,North America,20200209,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,11
+United Arab Emirates,Asia,20200209,7,United Arab Emirates,29,24,54,#C8BDFF,0,12
+India,Asia,20200209,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200209,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200209,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200209,2,Spain,2955,40,-4,#C8BDFF,1,16
+Belgium,Europe,20200209,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200209,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Finland,Europe,20200209,1,Finland,96,64,26,#C8BDFF,0,19
+China,Asia,20200210,42354,China,15136,19.1959,101.0583,#C8BDFF,2525,1
+Singapore,Asia,20200210,45,Singapore,22,1.2833,103.8333,#C8BDFF,5,2
+Thailand,Asia,20200210,32,Thailand,11,15,101,#C8BDFF,0,3
+Japan,Asia,20200210,26,Japan,72,36,138,#C8BDFF,0,4
+Malaysia,Asia,20200210,18,Malaysia,48,2.5,112.5,#C8BDFF,2,5
+Australia,Oceania,20200210,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,6
+Germany,Europe,20200210,14,Germany,1597,51,9,#C8BDFF,0,7
+Vietnam,Asia,20200210,14,Vietnam,12,16,108,#C8BDFF,1,8
+France,Europe,20200210,11,France,1383,-17.6797,-53,#C8BDFF,0,9
+US,North America,20200210,11,US,548,18.2208,-102.2548,#C8BDFF,0,10
+United Arab Emirates,Asia,20200210,8,United Arab Emirates,29,24,54,#C8BDFF,1,11
+Canada,North America,20200210,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200210,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200210,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200210,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200210,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200210,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200210,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Finland,Europe,20200210,1,Finland,96,64,26,#C8BDFF,0,19
+China,Asia,20200211,44386,China,15136,19.1959,101.0583,#C8BDFF,2032,1
+Singapore,Asia,20200211,47,Singapore,22,1.2833,103.8333,#C8BDFF,2,2
+Thailand,Asia,20200211,33,Thailand,11,15,101,#C8BDFF,1,3
+Japan,Asia,20200211,26,Japan,72,36,138,#C8BDFF,0,4
+Malaysia,Asia,20200211,18,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200211,16,Germany,1597,51,9,#C8BDFF,2,6
+Australia,Oceania,20200211,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,7
+Vietnam,Asia,20200211,15,Vietnam,12,16,108,#C8BDFF,1,8
+US,North America,20200211,12,US,548,18.2208,-102.2548,#C8BDFF,1,9
+France,Europe,20200211,11,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200211,8,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200211,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200211,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200211,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200211,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200211,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200211,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200211,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Finland,Europe,20200211,1,Finland,96,64,26,#C8BDFF,0,19
+China,Asia,20200212,44759,China,15136,19.1959,101.0583,#C8BDFF,373,1
+Singapore,Asia,20200212,50,Singapore,22,1.2833,103.8333,#C8BDFF,3,2
+Thailand,Asia,20200212,33,Thailand,11,15,101,#C8BDFF,0,3
+Japan,Asia,20200212,28,Japan,72,36,138,#C8BDFF,2,4
+Malaysia,Asia,20200212,18,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200212,16,Germany,1597,51,9,#C8BDFF,0,6
+Australia,Oceania,20200212,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,7
+Vietnam,Asia,20200212,15,Vietnam,12,16,108,#C8BDFF,0,8
+US,North America,20200212,12,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200212,11,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200212,8,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200212,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200212,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200212,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200212,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200212,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200212,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200212,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Finland,Europe,20200212,1,Finland,96,64,26,#C8BDFF,0,19
+China,Asia,20200213,59895,China,15136,19.1959,101.0583,#C8BDFF,15136,1
+Singapore,Asia,20200213,58,Singapore,22,1.2833,103.8333,#C8BDFF,8,2
+Thailand,Asia,20200213,33,Thailand,11,15,101,#C8BDFF,0,3
+Japan,Asia,20200213,28,Japan,72,36,138,#C8BDFF,0,4
+Malaysia,Asia,20200213,19,Malaysia,48,2.5,112.5,#C8BDFF,1,5
+Germany,Europe,20200213,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200213,16,Vietnam,12,16,108,#C8BDFF,1,7
+Australia,Oceania,20200213,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200213,13,US,548,18.2208,-102.2548,#C8BDFF,1,9
+France,Europe,20200213,11,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200213,8,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200213,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200213,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200213,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200213,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200213,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200213,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200213,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Finland,Europe,20200213,1,Finland,96,64,26,#C8BDFF,0,19
+China,Asia,20200214,66358,China,15136,19.1959,101.0583,#C8BDFF,6463,1
+Singapore,Asia,20200214,67,Singapore,22,1.2833,103.8333,#C8BDFF,9,2
+Thailand,Asia,20200214,33,Thailand,11,15,101,#C8BDFF,0,3
+Japan,Asia,20200214,29,Japan,72,36,138,#C8BDFF,1,4
+Malaysia,Asia,20200214,19,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200214,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200214,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200214,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200214,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200214,11,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200214,8,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200214,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200214,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200214,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200214,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200214,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200214,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200214,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Egypt,Africa,20200214,1,Egypt,34,26,30,#C8BDFF,1,19
+China,Asia,20200215,68413,China,15136,19.1959,101.0583,#C8BDFF,2055,1
+Singapore,Asia,20200215,72,Singapore,22,1.2833,103.8333,#C8BDFF,5,2
+Japan,Asia,20200215,43,Japan,72,36,138,#C8BDFF,14,3
+Thailand,Asia,20200215,33,Thailand,11,15,101,#C8BDFF,0,4
+Malaysia,Asia,20200215,22,Malaysia,48,2.5,112.5,#C8BDFF,3,5
+Germany,Europe,20200215,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200215,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200215,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200215,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200215,12,France,1383,-17.6797,-53,#C8BDFF,1,10
+United Arab Emirates,Asia,20200215,8,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200215,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200215,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200215,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200215,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200215,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200215,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200215,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Egypt,Africa,20200215,1,Egypt,34,26,30,#C8BDFF,0,19
+China,Asia,20200216,70513,China,15136,19.1959,101.0583,#C8BDFF,2100,1
+Singapore,Asia,20200216,75,Singapore,22,1.2833,103.8333,#C8BDFF,3,2
+Japan,Asia,20200216,59,Japan,72,36,138,#C8BDFF,16,3
+Thailand,Asia,20200216,34,Thailand,11,15,101,#C8BDFF,1,4
+Malaysia,Asia,20200216,22,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200216,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200216,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200216,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200216,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200216,12,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200216,9,United Arab Emirates,29,24,54,#C8BDFF,1,11
+Canada,North America,20200216,7,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200216,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200216,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200216,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200216,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200216,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200216,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Egypt,Africa,20200216,1,Egypt,34,26,30,#C8BDFF,0,19
+China,Asia,20200217,72434,China,15136,19.1959,101.0583,#C8BDFF,1921,1
+Singapore,Asia,20200217,77,Singapore,22,1.2833,103.8333,#C8BDFF,2,2
+Japan,Asia,20200217,66,Japan,72,36,138,#C8BDFF,7,3
+Thailand,Asia,20200217,35,Thailand,11,15,101,#C8BDFF,1,4
+Malaysia,Asia,20200217,22,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200217,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200217,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200217,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200217,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200217,12,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200217,9,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200217,8,Canada,76,37.6489,-106.4509,#C8BDFF,1,12
+India,Asia,20200217,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200217,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200217,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200217,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200217,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200217,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Egypt,Africa,20200217,1,Egypt,34,26,30,#C8BDFF,0,19
+China,Asia,20200218,74211,China,15136,19.1959,101.0583,#C8BDFF,1777,1
+Singapore,Asia,20200218,81,Singapore,22,1.2833,103.8333,#C8BDFF,4,2
+Japan,Asia,20200218,74,Japan,72,36,138,#C8BDFF,8,3
+Thailand,Asia,20200218,35,Thailand,11,15,101,#C8BDFF,0,4
+Malaysia,Asia,20200218,22,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200218,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200218,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200218,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200218,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200218,12,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200218,9,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200218,8,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200218,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200218,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200218,3,Philippines,47,13,122,#C8BDFF,0,15
+Spain,Europe,20200218,2,Spain,2955,40,-4,#C8BDFF,0,16
+Belgium,Europe,20200218,1,Belgium,245,50.8333,4,#C8BDFF,0,17
+Cambodia,Asia,20200218,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,18
+Egypt,Africa,20200218,1,Egypt,34,26,30,#C8BDFF,0,19
+China,Asia,20200219,74619,China,15136,19.1959,101.0583,#C8BDFF,408,1
+Japan,Asia,20200219,84,Japan,72,36,138,#C8BDFF,10,2
+Singapore,Asia,20200219,84,Singapore,22,1.2833,103.8333,#C8BDFF,3,3
+Thailand,Asia,20200219,35,Thailand,11,15,101,#C8BDFF,0,4
+Malaysia,Asia,20200219,22,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200219,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200219,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200219,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200219,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200219,12,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200219,9,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200219,8,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+India,Asia,20200219,3,India,23,21,78,#C8BDFF,0,13
+Italy,Europe,20200219,3,Italy,5198,43,12,#C8BDFF,0,14
+Philippines,Asia,20200219,3,Philippines,47,13,122,#C8BDFF,0,15
+Iran,Asia,20200219,2,Iran,1365,32,53,#C8BDFF,2,16
+Spain,Europe,20200219,2,Spain,2955,40,-4,#C8BDFF,0,17
+Belgium,Europe,20200219,1,Belgium,245,50.8333,4,#C8BDFF,0,18
+Cambodia,Asia,20200219,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,19
+China,Asia,20200220,75077,China,15136,19.1959,101.0583,#C8BDFF,458,1
+Japan,Asia,20200220,94,Japan,72,36,138,#C8BDFF,10,2
+Singapore,Asia,20200220,84,Singapore,22,1.2833,103.8333,#C8BDFF,0,3
+Thailand,Asia,20200220,35,Thailand,11,15,101,#C8BDFF,0,4
+Malaysia,Asia,20200220,22,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Germany,Europe,20200220,16,Germany,1597,51,9,#C8BDFF,0,6
+Vietnam,Asia,20200220,16,Vietnam,12,16,108,#C8BDFF,0,7
+Australia,Oceania,20200220,15,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+US,North America,20200220,13,US,548,18.2208,-102.2548,#C8BDFF,0,9
+France,Europe,20200220,12,France,1383,-17.6797,-53,#C8BDFF,0,10
+United Arab Emirates,Asia,20200220,9,United Arab Emirates,29,24,54,#C8BDFF,0,11
+Canada,North America,20200220,8,Canada,76,37.6489,-106.4509,#C8BDFF,0,12
+Iran,Asia,20200220,5,Iran,1365,32,53,#C8BDFF,3,13
+India,Asia,20200220,3,India,23,21,78,#C8BDFF,0,14
+Italy,Europe,20200220,3,Italy,5198,43,12,#C8BDFF,0,15
+Philippines,Asia,20200220,3,Philippines,47,13,122,#C8BDFF,0,16
+Spain,Europe,20200220,2,Spain,2955,40,-4,#C8BDFF,0,17
+Belgium,Europe,20200220,1,Belgium,245,50.8333,4,#C8BDFF,0,18
+Cambodia,Asia,20200220,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,19
+China,Asia,20200221,75550,China,15136,19.1959,101.0583,#C8BDFF,473,1
+Japan,Asia,20200221,105,Japan,72,36,138,#C8BDFF,11,2
+Singapore,Asia,20200221,85,Singapore,22,1.2833,103.8333,#C8BDFF,1,3
+Thailand,Asia,20200221,35,Thailand,11,15,101,#C8BDFF,0,4
+Malaysia,Asia,20200221,22,Malaysia,48,2.5,112.5,#C8BDFF,0,5
+Italy,Europe,20200221,20,Italy,5198,43,12,#C8BDFF,17,6
+Australia,Oceania,20200221,19,Australia,72,-12.4634,115.8605,#C8BDFF,4,7
+Iran,Asia,20200221,18,Iran,1365,32,53,#C8BDFF,13,8
+Germany,Europe,20200221,16,Germany,1597,51,9,#C8BDFF,0,9
+Vietnam,Asia,20200221,16,Vietnam,12,16,108,#C8BDFF,0,10
+US,North America,20200221,15,US,548,18.2208,-102.2548,#C8BDFF,2,11
+France,Europe,20200221,12,France,1383,-17.6797,-53,#C8BDFF,0,12
+Canada,North America,20200221,9,Canada,76,37.6489,-106.4509,#C8BDFF,1,13
+United Arab Emirates,Asia,20200221,9,United Arab Emirates,29,24,54,#C8BDFF,0,14
+India,Asia,20200221,3,India,23,21,78,#C8BDFF,0,15
+Philippines,Asia,20200221,3,Philippines,47,13,122,#C8BDFF,0,16
+Spain,Europe,20200221,2,Spain,2955,40,-4,#C8BDFF,0,17
+Belgium,Europe,20200221,1,Belgium,245,50.8333,4,#C8BDFF,0,18
+Cambodia,Asia,20200221,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,19
+China,Asia,20200222,77001,China,15136,19.1959,101.0583,#C8BDFF,1451,1
+Japan,Asia,20200222,122,Japan,72,36,138,#C8BDFF,17,2
+Singapore,Asia,20200222,85,Singapore,22,1.2833,103.8333,#C8BDFF,0,3
+Italy,Europe,20200222,62,Italy,5198,43,12,#C8BDFF,42,4
+Thailand,Asia,20200222,35,Thailand,11,15,101,#C8BDFF,0,5
+Iran,Asia,20200222,28,Iran,1365,32,53,#C8BDFF,10,6
+Australia,Oceania,20200222,22,Australia,72,-12.4634,115.8605,#C8BDFF,3,7
+Malaysia,Asia,20200222,22,Malaysia,48,2.5,112.5,#C8BDFF,0,8
+Germany,Europe,20200222,16,Germany,1597,51,9,#C8BDFF,0,9
+Vietnam,Asia,20200222,16,Vietnam,12,16,108,#C8BDFF,0,10
+US,North America,20200222,15,US,548,18.2208,-102.2548,#C8BDFF,0,11
+United Arab Emirates,Asia,20200222,13,United Arab Emirates,29,24,54,#C8BDFF,4,12
+France,Europe,20200222,12,France,1383,-17.6797,-53,#C8BDFF,0,13
+Canada,North America,20200222,9,Canada,76,37.6489,-106.4509,#C8BDFF,0,14
+India,Asia,20200222,3,India,23,21,78,#C8BDFF,0,15
+Philippines,Asia,20200222,3,Philippines,47,13,122,#C8BDFF,0,16
+Spain,Europe,20200222,2,Spain,2955,40,-4,#C8BDFF,0,17
+Belgium,Europe,20200222,1,Belgium,245,50.8333,4,#C8BDFF,0,18
+Cambodia,Asia,20200222,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,19
+China,Asia,20200223,77022,China,15136,19.1959,101.0583,#C8BDFF,21,1
+Italy,Europe,20200223,155,Italy,5198,43,12,#C8BDFF,93,2
+Japan,Asia,20200223,147,Japan,72,36,138,#C8BDFF,25,3
+Singapore,Asia,20200223,89,Singapore,22,1.2833,103.8333,#C8BDFF,4,4
+Iran,Asia,20200223,43,Iran,1365,32,53,#C8BDFF,15,5
+Thailand,Asia,20200223,35,Thailand,11,15,101,#C8BDFF,0,6
+Australia,Oceania,20200223,22,Australia,72,-12.4634,115.8605,#C8BDFF,0,7
+Malaysia,Asia,20200223,22,Malaysia,48,2.5,112.5,#C8BDFF,0,8
+Germany,Europe,20200223,16,Germany,1597,51,9,#C8BDFF,0,9
+Vietnam,Asia,20200223,16,Vietnam,12,16,108,#C8BDFF,0,10
+US,North America,20200223,15,US,548,18.2208,-102.2548,#C8BDFF,0,11
+United Arab Emirates,Asia,20200223,13,United Arab Emirates,29,24,54,#C8BDFF,0,12
+France,Europe,20200223,12,France,1383,-17.6797,-53,#C8BDFF,0,13
+Canada,North America,20200223,9,Canada,76,37.6489,-106.4509,#C8BDFF,0,14
+India,Asia,20200223,3,India,23,21,78,#C8BDFF,0,15
+Philippines,Asia,20200223,3,Philippines,47,13,122,#C8BDFF,0,16
+Spain,Europe,20200223,2,Spain,2955,40,-4,#C8BDFF,0,17
+Belgium,Europe,20200223,1,Belgium,245,50.8333,4,#C8BDFF,0,18
+Cambodia,Asia,20200223,1,Cambodia,2,11.55,104.9167,#C8BDFF,0,19
+China,Asia,20200224,77241,China,15136,19.1959,101.0583,#C8BDFF,219,1
+Italy,Europe,20200224,229,Italy,5198,43,12,#C8BDFF,74,2
+Japan,Asia,20200224,159,Japan,72,36,138,#C8BDFF,12,3
+Singapore,Asia,20200224,89,Singapore,22,1.2833,103.8333,#C8BDFF,0,4
+Iran,Asia,20200224,61,Iran,1365,32,53,#C8BDFF,18,5
+US,North America,20200224,51,US,548,18.2208,-102.2548,#C8BDFF,36,6
+Thailand,Asia,20200224,35,Thailand,11,15,101,#C8BDFF,0,7
+Australia,Oceania,20200224,22,Australia,72,-12.4634,115.8605,#C8BDFF,0,8
+Malaysia,Asia,20200224,22,Malaysia,48,2.5,112.5,#C8BDFF,0,9
+Germany,Europe,20200224,16,Germany,1597,51,9,#C8BDFF,0,10
+Vietnam,Asia,20200224,16,Vietnam,12,16,108,#C8BDFF,0,11
+United Arab Emirates,Asia,20200224,13,United Arab Emirates,29,24,54,#C8BDFF,0,12
+France,Europe,20200224,12,France,1383,-17.6797,-53,#C8BDFF,0,13
+Canada,North America,20200224,10,Canada,76,37.6489,-106.4509,#C8BDFF,1,14
+India,Asia,20200224,3,India,23,21,78,#C8BDFF,0,15
+Philippines,Asia,20200224,3,Philippines,47,13,122,#C8BDFF,0,16
+Oman,Asia,20200224,2,Oman,6,21,57,#C8BDFF,2,17
+Spain,Europe,20200224,2,Spain,2955,40,-4,#C8BDFF,0,18
+Afghanistan,Asia,20200224,1,Afghanistan,4,33,65,#C8BDFF,1,19
+China,Asia,20200225,77754,China,15136,19.1959,101.0583,#C8BDFF,513,1
+Italy,Europe,20200225,322,Italy,5198,43,12,#C8BDFF,93,2
+Japan,Asia,20200225,170,Japan,72,36,138,#C8BDFF,11,3
+Iran,Asia,20200225,95,Iran,1365,32,53,#C8BDFF,34,4
+Singapore,Asia,20200225,91,Singapore,22,1.2833,103.8333,#C8BDFF,2,5
+US,North America,20200225,51,US,548,18.2208,-102.2548,#C8BDFF,0,6
+Thailand,Asia,20200225,37,Thailand,11,15,101,#C8BDFF,2,7
+Bahrain,Asia,20200225,23,Bahrain,85,26.0275,50.55,#C8BDFF,22,8
+Australia,Oceania,20200225,22,Australia,72,-12.4634,115.8605,#C8BDFF,0,9
+Malaysia,Asia,20200225,22,Malaysia,48,2.5,112.5,#C8BDFF,0,10
+Germany,Europe,20200225,17,Germany,1597,51,9,#C8BDFF,1,11
+Vietnam,Asia,20200225,16,Vietnam,12,16,108,#C8BDFF,0,12
+France,Europe,20200225,14,France,1383,-17.6797,-53,#C8BDFF,2,13
+United Arab Emirates,Asia,20200225,13,United Arab Emirates,29,24,54,#C8BDFF,0,14
+Canada,North America,20200225,11,Canada,76,37.6489,-106.4509,#C8BDFF,1,15
+Kuwait,Asia,20200225,11,Kuwait,24,29.5,47.75,#C8BDFF,10,16
+Spain,Europe,20200225,6,Spain,2955,40,-4,#C8BDFF,4,17
+India,Asia,20200225,3,India,23,21,78,#C8BDFF,0,18
+Philippines,Asia,20200225,3,Philippines,47,13,122,#C8BDFF,0,19
+China,Asia,20200226,78166,China,15136,19.1959,101.0583,#C8BDFF,412,1
+Italy,Europe,20200226,453,Italy,5198,43,12,#C8BDFF,131,2
+Japan,Asia,20200226,189,Japan,72,36,138,#C8BDFF,19,3
+Iran,Asia,20200226,139,Iran,1365,32,53,#C8BDFF,44,4
+Singapore,Asia,20200226,93,Singapore,22,1.2833,103.8333,#C8BDFF,2,5
+US,North America,20200226,57,US,548,18.2208,-102.2548,#C8BDFF,6,6
+Thailand,Asia,20200226,40,Thailand,11,15,101,#C8BDFF,3,7
+Bahrain,Asia,20200226,33,Bahrain,85,26.0275,50.55,#C8BDFF,10,8
+Germany,Europe,20200226,27,Germany,1597,51,9,#C8BDFF,10,9
+Kuwait,Asia,20200226,26,Kuwait,24,29.5,47.75,#C8BDFF,15,10
+Australia,Oceania,20200226,22,Australia,72,-12.4634,115.8605,#C8BDFF,0,11
+Malaysia,Asia,20200226,22,Malaysia,48,2.5,112.5,#C8BDFF,0,12
+France,Europe,20200226,18,France,1383,-17.6797,-53,#C8BDFF,4,13
+Vietnam,Asia,20200226,16,Vietnam,12,16,108,#C8BDFF,0,14
+Spain,Europe,20200226,13,Spain,2955,40,-4,#C8BDFF,7,15
+United Arab Emirates,Asia,20200226,13,United Arab Emirates,29,24,54,#C8BDFF,0,16
+Canada,North America,20200226,11,Canada,76,37.6489,-106.4509,#C8BDFF,0,17
+Iraq,Asia,20200226,5,Iraq,30,33,44,#C8BDFF,4,18
+Oman,Asia,20200226,4,Oman,6,21,57,#C8BDFF,2,19
+China,Asia,20200227,78600,China,15136,19.1959,101.0583,#C8BDFF,434,1
+Italy,Europe,20200227,655,Italy,5198,43,12,#C8BDFF,202,2
+Iran,Asia,20200227,245,Iran,1365,32,53,#C8BDFF,106,3
+Japan,Asia,20200227,214,Japan,72,36,138,#C8BDFF,25,4
+Singapore,Asia,20200227,93,Singapore,22,1.2833,103.8333,#C8BDFF,0,5
+US,North America,20200227,58,US,548,18.2208,-102.2548,#C8BDFF,1,6
+Germany,Europe,20200227,46,Germany,1597,51,9,#C8BDFF,19,7
+Kuwait,Asia,20200227,43,Kuwait,24,29.5,47.75,#C8BDFF,17,8
+Thailand,Asia,20200227,40,Thailand,11,15,101,#C8BDFF,0,9
+France,Europe,20200227,38,France,1383,-17.6797,-53,#C8BDFF,20,10
+Bahrain,Asia,20200227,33,Bahrain,85,26.0275,50.55,#C8BDFF,0,11
+Australia,Oceania,20200227,23,Australia,72,-12.4634,115.8605,#C8BDFF,1,12
+Malaysia,Asia,20200227,23,Malaysia,48,2.5,112.5,#C8BDFF,1,13
+Vietnam,Asia,20200227,16,Vietnam,12,16,108,#C8BDFF,0,14
+Spain,Europe,20200227,15,Spain,2955,40,-4,#C8BDFF,2,15
+Canada,North America,20200227,13,Canada,76,37.6489,-106.4509,#C8BDFF,2,16
+United Arab Emirates,Asia,20200227,13,United Arab Emirates,29,24,54,#C8BDFF,0,17
+Switzerland,Europe,20200227,8,Switzerland,487,46.8182,8.2275,#C8BDFF,7,18
+Iraq,Asia,20200227,7,Iraq,30,33,44,#C8BDFF,2,19
+China,Asia,20200228,78928,China,15136,19.1959,101.0583,#C8BDFF,328,1
+Italy,Europe,20200228,888,Italy,5198,43,12,#C8BDFF,233,2
+Iran,Asia,20200228,388,Iran,1365,32,53,#C8BDFF,143,3
+Japan,Asia,20200228,228,Japan,72,36,138,#C8BDFF,14,4
+Singapore,Asia,20200228,93,Singapore,22,1.2833,103.8333,#C8BDFF,0,5
+US,North America,20200228,60,US,548,18.2208,-102.2548,#C8BDFF,2,6
+France,Europe,20200228,57,France,1383,-17.6797,-53,#C8BDFF,19,7
+Germany,Europe,20200228,48,Germany,1597,51,9,#C8BDFF,2,8
+Kuwait,Asia,20200228,45,Kuwait,24,29.5,47.75,#C8BDFF,2,9
+Thailand,Asia,20200228,41,Thailand,11,15,101,#C8BDFF,1,10
+Bahrain,Asia,20200228,36,Bahrain,85,26.0275,50.55,#C8BDFF,3,11
+Spain,Europe,20200228,32,Spain,2955,40,-4,#C8BDFF,17,12
+Australia,Oceania,20200228,23,Australia,72,-12.4634,115.8605,#C8BDFF,0,13
+Malaysia,Asia,20200228,23,Malaysia,48,2.5,112.5,#C8BDFF,0,14
+United Arab Emirates,Asia,20200228,19,United Arab Emirates,29,24,54,#C8BDFF,6,15
+Vietnam,Asia,20200228,16,Vietnam,12,16,108,#C8BDFF,0,16
+Canada,North America,20200228,14,Canada,76,37.6489,-106.4509,#C8BDFF,1,17
+Switzerland,Europe,20200228,8,Switzerland,487,46.8182,8.2275,#C8BDFF,0,18
+Iraq,Asia,20200228,7,Iraq,30,33,44,#C8BDFF,0,19
+China,Asia,20200229,79356,China,15136,19.1959,101.0583,#C8BDFF,428,1
+Italy,Europe,20200229,1128,Italy,5198,43,12,#C8BDFF,240,2
+Iran,Asia,20200229,593,Iran,1365,32,53,#C8BDFF,205,3
+Japan,Asia,20200229,241,Japan,72,36,138,#C8BDFF,13,4
+Singapore,Asia,20200229,102,Singapore,22,1.2833,103.8333,#C8BDFF,9,5
+France,Europe,20200229,100,France,1383,-17.6797,-53,#C8BDFF,43,6
+Germany,Europe,20200229,79,Germany,1597,51,9,#C8BDFF,31,7
+US,North America,20200229,68,US,548,18.2208,-102.2548,#C8BDFF,8,8
+Kuwait,Asia,20200229,45,Kuwait,24,29.5,47.75,#C8BDFF,0,9
+Spain,Europe,20200229,45,Spain,2955,40,-4,#C8BDFF,13,10
+Thailand,Asia,20200229,42,Thailand,11,15,101,#C8BDFF,1,11
+Bahrain,Asia,20200229,41,Bahrain,85,26.0275,50.55,#C8BDFF,5,12
+Australia,Oceania,20200229,25,Australia,72,-12.4634,115.8605,#C8BDFF,2,13
+Malaysia,Asia,20200229,25,Malaysia,48,2.5,112.5,#C8BDFF,2,14
+United Arab Emirates,Asia,20200229,21,United Arab Emirates,29,24,54,#C8BDFF,2,15
+Canada,North America,20200229,20,Canada,76,37.6489,-106.4509,#C8BDFF,6,16
+Switzerland,Europe,20200229,18,Switzerland,487,46.8182,8.2275,#C8BDFF,10,17
+Vietnam,Asia,20200229,16,Vietnam,12,16,108,#C8BDFF,0,18
+Norway,Europe,20200229,15,Norway,294,60.472,8.4689,#C8BDFF,9,19
+China,Asia,20200301,79932,China,15136,19.1959,101.0583,#C8BDFF,576,1
+Italy,Europe,20200301,1694,Italy,5198,43,12,#C8BDFF,566,2
+Iran,Asia,20200301,978,Iran,1365,32,53,#C8BDFF,385,3
+Japan,Asia,20200301,256,Japan,72,36,138,#C8BDFF,15,4
+France,Europe,20200301,130,France,1383,-17.6797,-53,#C8BDFF,30,5
+Germany,Europe,20200301,130,Germany,1597,51,9,#C8BDFF,51,6
+Singapore,Asia,20200301,106,Singapore,22,1.2833,103.8333,#C8BDFF,4,7
+Spain,Europe,20200301,84,Spain,2955,40,-4,#C8BDFF,39,8
+US,North America,20200301,74,US,548,18.2208,-102.2548,#C8BDFF,6,9
+Bahrain,Asia,20200301,47,Bahrain,85,26.0275,50.55,#C8BDFF,6,10
+Kuwait,Asia,20200301,45,Kuwait,24,29.5,47.75,#C8BDFF,0,11
+Thailand,Asia,20200301,42,Thailand,11,15,101,#C8BDFF,0,12
+Malaysia,Asia,20200301,29,Malaysia,48,2.5,112.5,#C8BDFF,4,13
+Australia,Oceania,20200301,27,Australia,72,-12.4634,115.8605,#C8BDFF,2,14
+Switzerland,Europe,20200301,27,Switzerland,487,46.8182,8.2275,#C8BDFF,9,15
+Canada,North America,20200301,24,Canada,76,37.6489,-106.4509,#C8BDFF,4,16
+United Arab Emirates,Asia,20200301,21,United Arab Emirates,29,24,54,#C8BDFF,0,17
+Iraq,Asia,20200301,19,Iraq,30,33,44,#C8BDFF,6,18
+Norway,Europe,20200301,19,Norway,294,60.472,8.4689,#C8BDFF,4,19
+China,Asia,20200302,80136,China,15136,19.1959,101.0583,#C8BDFF,204,1
+Italy,Europe,20200302,2036,Italy,5198,43,12,#C8BDFF,342,2
+Iran,Asia,20200302,1501,Iran,1365,32,53,#C8BDFF,523,3
+Japan,Asia,20200302,274,Japan,72,36,138,#C8BDFF,18,4
+France,Europe,20200302,191,France,1383,-17.6797,-53,#C8BDFF,61,5
+Germany,Europe,20200302,159,Germany,1597,51,9,#C8BDFF,29,6
+Spain,Europe,20200302,120,Spain,2955,40,-4,#C8BDFF,36,7
+Singapore,Asia,20200302,108,Singapore,22,1.2833,103.8333,#C8BDFF,2,8
+US,North America,20200302,98,US,548,18.2208,-102.2548,#C8BDFF,24,9
+Kuwait,Asia,20200302,56,Kuwait,24,29.5,47.75,#C8BDFF,11,10
+Bahrain,Asia,20200302,49,Bahrain,85,26.0275,50.55,#C8BDFF,2,11
+Thailand,Asia,20200302,43,Thailand,11,15,101,#C8BDFF,1,12
+Switzerland,Europe,20200302,42,Switzerland,487,46.8182,8.2275,#C8BDFF,15,13
+Australia,Oceania,20200302,30,Australia,72,-12.4634,115.8605,#C8BDFF,3,14
+Malaysia,Asia,20200302,29,Malaysia,48,2.5,112.5,#C8BDFF,0,15
+Canada,North America,20200302,27,Canada,76,37.6489,-106.4509,#C8BDFF,3,16
+Iraq,Asia,20200302,26,Iraq,30,33,44,#C8BDFF,7,17
+Norway,Europe,20200302,25,Norway,294,60.472,8.4689,#C8BDFF,6,18
+United Arab Emirates,Asia,20200302,21,United Arab Emirates,29,24,54,#C8BDFF,0,19
+China,Asia,20200303,80261,China,15136,19.1959,101.0583,#C8BDFF,125,1
+Italy,Europe,20200303,2502,Italy,5198,43,12,#C8BDFF,466,2
+Iran,Asia,20200303,2336,Iran,1365,32,53,#C8BDFF,835,3
+Japan,Asia,20200303,293,Japan,72,36,138,#C8BDFF,19,4
+France,Europe,20200303,204,France,1383,-17.6797,-53,#C8BDFF,13,5
+Germany,Europe,20200303,196,Germany,1597,51,9,#C8BDFF,37,6
+Spain,Europe,20200303,165,Spain,2955,40,-4,#C8BDFF,45,7
+US,North America,20200303,118,US,548,18.2208,-102.2548,#C8BDFF,20,8
+Singapore,Asia,20200303,110,Singapore,22,1.2833,103.8333,#C8BDFF,2,9
+Kuwait,Asia,20200303,56,Kuwait,24,29.5,47.75,#C8BDFF,0,10
+Switzerland,Europe,20200303,56,Switzerland,487,46.8182,8.2275,#C8BDFF,14,11
+Bahrain,Asia,20200303,49,Bahrain,85,26.0275,50.55,#C8BDFF,0,12
+Thailand,Asia,20200303,43,Thailand,11,15,101,#C8BDFF,0,13
+Australia,Oceania,20200303,39,Australia,72,-12.4634,115.8605,#C8BDFF,9,14
+Malaysia,Asia,20200303,36,Malaysia,48,2.5,112.5,#C8BDFF,7,15
+Iraq,Asia,20200303,32,Iraq,30,33,44,#C8BDFF,6,16
+Norway,Europe,20200303,32,Norway,294,60.472,8.4689,#C8BDFF,7,17
+Canada,North America,20200303,30,Canada,76,37.6489,-106.4509,#C8BDFF,3,18
+United Arab Emirates,Asia,20200303,27,United Arab Emirates,29,24,54,#C8BDFF,6,19
+China,Asia,20200304,80386,China,15136,19.1959,101.0583,#C8BDFF,125,1
+Italy,Europe,20200304,3089,Italy,5198,43,12,#C8BDFF,587,2
+Iran,Asia,20200304,2922,Iran,1365,32,53,#C8BDFF,586,3
+Japan,Asia,20200304,331,Japan,72,36,138,#C8BDFF,38,4
+France,Europe,20200304,288,France,1383,-17.6797,-53,#C8BDFF,84,5
+Germany,Europe,20200304,262,Germany,1597,51,9,#C8BDFF,66,6
+Spain,Europe,20200304,222,Spain,2955,40,-4,#C8BDFF,57,7
+US,North America,20200304,149,US,548,18.2208,-102.2548,#C8BDFF,31,8
+Singapore,Asia,20200304,110,Singapore,22,1.2833,103.8333,#C8BDFF,0,9
+Switzerland,Europe,20200304,90,Switzerland,487,46.8182,8.2275,#C8BDFF,34,10
+Kuwait,Asia,20200304,56,Kuwait,24,29.5,47.75,#C8BDFF,0,11
+Norway,Europe,20200304,56,Norway,294,60.472,8.4689,#C8BDFF,24,12
+Australia,Oceania,20200304,52,Australia,72,-12.4634,115.8605,#C8BDFF,13,13
+Bahrain,Asia,20200304,52,Bahrain,85,26.0275,50.55,#C8BDFF,3,14
+Malaysia,Asia,20200304,50,Malaysia,48,2.5,112.5,#C8BDFF,14,15
+Thailand,Asia,20200304,43,Thailand,11,15,101,#C8BDFF,0,16
+Netherlands,Europe,20200304,38,Netherlands,301,52.1326,5.2913,#C8BDFF,14,17
+Iraq,Asia,20200304,35,Iraq,30,33,44,#C8BDFF,3,18
+Sweden,Europe,20200304,35,Sweden,215,63,16,#C8BDFF,14,19
+China,Asia,20200305,80537,China,15136,19.1959,101.0583,#C8BDFF,151,1
+Italy,Europe,20200305,3858,Italy,5198,43,12,#C8BDFF,769,2
+Iran,Asia,20200305,3513,Iran,1365,32,53,#C8BDFF,591,3
+Germany,Europe,20200305,482,Germany,1597,51,9,#C8BDFF,220,4
+France,Europe,20200305,380,France,1383,-17.6797,-53,#C8BDFF,92,5
+Japan,Asia,20200305,360,Japan,72,36,138,#C8BDFF,29,6
+Spain,Europe,20200305,259,Spain,2955,40,-4,#C8BDFF,37,7
+US,North America,20200305,217,US,548,18.2208,-102.2548,#C8BDFF,68,8
+Singapore,Asia,20200305,117,Singapore,22,1.2833,103.8333,#C8BDFF,7,9
+Switzerland,Europe,20200305,114,Switzerland,487,46.8182,8.2275,#C8BDFF,24,10
+Sweden,Europe,20200305,94,Sweden,215,63,16,#C8BDFF,59,11
+Norway,Europe,20200305,87,Norway,294,60.472,8.4689,#C8BDFF,31,12
+Netherlands,Europe,20200305,82,Netherlands,301,52.1326,5.2913,#C8BDFF,44,13
+Kuwait,Asia,20200305,58,Kuwait,24,29.5,47.75,#C8BDFF,2,14
+Australia,Oceania,20200305,55,Australia,72,-12.4634,115.8605,#C8BDFF,3,15
+Bahrain,Asia,20200305,55,Bahrain,85,26.0275,50.55,#C8BDFF,3,16
+Belgium,Europe,20200305,50,Belgium,245,50.8333,4,#C8BDFF,27,17
+Malaysia,Asia,20200305,50,Malaysia,48,2.5,112.5,#C8BDFF,0,18
+Thailand,Asia,20200305,47,Thailand,11,15,101,#C8BDFF,4,19
+China,Asia,20200306,80690,China,15136,19.1959,101.0583,#C8BDFF,153,1
+Iran,Asia,20200306,4747,Iran,1365,32,53,#C8BDFF,1234,2
+Italy,Europe,20200306,4636,Italy,5198,43,12,#C8BDFF,778,3
+Germany,Europe,20200306,670,Germany,1597,51,9,#C8BDFF,188,4
+France,Europe,20200306,656,France,1383,-17.6797,-53,#C8BDFF,276,5
+Japan,Asia,20200306,420,Japan,72,36,138,#C8BDFF,60,6
+Spain,Europe,20200306,400,Spain,2955,40,-4,#C8BDFF,141,7
+US,North America,20200306,262,US,548,18.2208,-102.2548,#C8BDFF,45,8
+Switzerland,Europe,20200306,214,Switzerland,487,46.8182,8.2275,#C8BDFF,100,9
+Singapore,Asia,20200306,130,Singapore,22,1.2833,103.8333,#C8BDFF,13,10
+Netherlands,Europe,20200306,128,Netherlands,301,52.1326,5.2913,#C8BDFF,46,11
+Belgium,Europe,20200306,109,Belgium,245,50.8333,4,#C8BDFF,59,12
+Norway,Europe,20200306,108,Norway,294,60.472,8.4689,#C8BDFF,21,13
+Sweden,Europe,20200306,101,Sweden,215,63,16,#C8BDFF,7,14
+Malaysia,Asia,20200306,83,Malaysia,48,2.5,112.5,#C8BDFF,33,15
+Australia,Oceania,20200306,60,Australia,72,-12.4634,115.8605,#C8BDFF,5,16
+Bahrain,Asia,20200306,60,Bahrain,85,26.0275,50.55,#C8BDFF,5,17
+Kuwait,Asia,20200306,58,Kuwait,24,29.5,47.75,#C8BDFF,0,18
+Austria,Europe,20200306,55,Austria,202,47.5162,14.5501,#C8BDFF,14,19
+China,Asia,20200307,80770,China,15136,19.1959,101.0583,#C8BDFF,80,1
+Italy,Europe,20200307,5883,Italy,5198,43,12,#C8BDFF,1247,2
+Iran,Asia,20200307,5823,Iran,1365,32,53,#C8BDFF,1076,3
+France,Europe,20200307,952,France,1383,-17.6797,-53,#C8BDFF,296,4
+Germany,Europe,20200307,799,Germany,1597,51,9,#C8BDFF,129,5
+Spain,Europe,20200307,500,Spain,2955,40,-4,#C8BDFF,100,6
+Japan,Asia,20200307,461,Japan,72,36,138,#C8BDFF,41,7
+US,North America,20200307,402,US,548,18.2208,-102.2548,#C8BDFF,140,8
+Switzerland,Europe,20200307,268,Switzerland,487,46.8182,8.2275,#C8BDFF,54,9
+Netherlands,Europe,20200307,188,Netherlands,301,52.1326,5.2913,#C8BDFF,60,10
+Belgium,Europe,20200307,169,Belgium,245,50.8333,4,#C8BDFF,60,11
+Sweden,Europe,20200307,161,Sweden,215,63,16,#C8BDFF,60,12
+Norway,Europe,20200307,147,Norway,294,60.472,8.4689,#C8BDFF,39,13
+Singapore,Asia,20200307,138,Singapore,22,1.2833,103.8333,#C8BDFF,8,14
+Malaysia,Asia,20200307,93,Malaysia,48,2.5,112.5,#C8BDFF,10,15
+Bahrain,Asia,20200307,85,Bahrain,85,26.0275,50.55,#C8BDFF,25,16
+Austria,Europe,20200307,79,Austria,202,47.5162,14.5501,#C8BDFF,24,17
+Australia,Oceania,20200307,63,Australia,72,-12.4634,115.8605,#C8BDFF,3,18
+Kuwait,Asia,20200307,61,Kuwait,24,29.5,47.75,#C8BDFF,3,19
+China,Asia,20200308,80823,China,15136,19.1959,101.0583,#C8BDFF,53,1
+Italy,Europe,20200308,7375,Italy,5198,43,12,#C8BDFF,1492,2
+Iran,Asia,20200308,6566,Iran,1365,32,53,#C8BDFF,743,3
+France,Europe,20200308,1129,France,1383,-17.6797,-53,#C8BDFF,177,4
+Germany,Europe,20200308,1040,Germany,1597,51,9,#C8BDFF,241,5
+Spain,Europe,20200308,673,Spain,2955,40,-4,#C8BDFF,173,6
+US,North America,20200308,518,US,548,18.2208,-102.2548,#C8BDFF,116,7
+Japan,Asia,20200308,502,Japan,72,36,138,#C8BDFF,41,8
+Switzerland,Europe,20200308,337,Switzerland,487,46.8182,8.2275,#C8BDFF,69,9
+Netherlands,Europe,20200308,265,Netherlands,301,52.1326,5.2913,#C8BDFF,77,10
+Sweden,Europe,20200308,203,Sweden,215,63,16,#C8BDFF,42,11
+Belgium,Europe,20200308,200,Belgium,245,50.8333,4,#C8BDFF,31,12
+Norway,Europe,20200308,176,Norway,294,60.472,8.4689,#C8BDFF,29,13
+Singapore,Asia,20200308,150,Singapore,22,1.2833,103.8333,#C8BDFF,12,14
+Austria,Europe,20200308,104,Austria,202,47.5162,14.5501,#C8BDFF,25,15
+Malaysia,Asia,20200308,99,Malaysia,48,2.5,112.5,#C8BDFF,6,16
+Bahrain,Asia,20200308,85,Bahrain,85,26.0275,50.55,#C8BDFF,0,17
+Australia,Oceania,20200308,76,Australia,72,-12.4634,115.8605,#C8BDFF,13,18
+Greece,Europe,20200308,73,Greece,91,39.0742,21.8243,#C8BDFF,27,19
+China,Asia,20200309,80860,China,15136,19.1959,101.0583,#C8BDFF,37,1
+Italy,Europe,20200309,9172,Italy,5198,43,12,#C8BDFF,1797,2
+Iran,Asia,20200309,7161,Iran,1365,32,53,#C8BDFF,595,3
+France,Europe,20200309,1212,France,1383,-17.6797,-53,#C8BDFF,83,4
+Germany,Europe,20200309,1176,Germany,1597,51,9,#C8BDFF,136,5
+Spain,Europe,20200309,1073,Spain,2955,40,-4,#C8BDFF,400,6
+US,North America,20200309,583,US,548,18.2208,-102.2548,#C8BDFF,65,7
+Japan,Asia,20200309,511,Japan,72,36,138,#C8BDFF,9,8
+Switzerland,Europe,20200309,374,Switzerland,487,46.8182,8.2275,#C8BDFF,37,9
+Netherlands,Europe,20200309,321,Netherlands,301,52.1326,5.2913,#C8BDFF,56,10
+Sweden,Europe,20200309,248,Sweden,215,63,16,#C8BDFF,45,11
+Belgium,Europe,20200309,239,Belgium,245,50.8333,4,#C8BDFF,39,12
+Norway,Europe,20200309,205,Norway,294,60.472,8.4689,#C8BDFF,29,13
+Singapore,Asia,20200309,150,Singapore,22,1.2833,103.8333,#C8BDFF,0,14
+Austria,Europe,20200309,131,Austria,202,47.5162,14.5501,#C8BDFF,27,15
+Malaysia,Asia,20200309,117,Malaysia,48,2.5,112.5,#C8BDFF,18,16
+Bahrain,Asia,20200309,95,Bahrain,85,26.0275,50.55,#C8BDFF,10,17
+Denmark,Europe,20200309,92,Denmark,187,56.2639,-6.9118,#C8BDFF,55,18
+Australia,Oceania,20200309,91,Australia,72,-12.4634,115.8605,#C8BDFF,15,19
+China,Asia,20200310,80887,China,15136,19.1959,101.0583,#C8BDFF,27,1
+Italy,Europe,20200310,10149,Italy,5198,43,12,#C8BDFF,977,2
+Iran,Asia,20200310,8042,Iran,1365,32,53,#C8BDFF,881,3
+France,Europe,20200310,1787,France,1383,-17.6797,-53,#C8BDFF,575,4
+Spain,Europe,20200310,1695,Spain,2955,40,-4,#C8BDFF,622,5
+Germany,Europe,20200310,1457,Germany,1597,51,9,#C8BDFF,281,6
+US,North America,20200310,959,US,548,18.2208,-102.2548,#C8BDFF,376,7
+Japan,Asia,20200310,581,Japan,72,36,138,#C8BDFF,70,8
+Switzerland,Europe,20200310,491,Switzerland,487,46.8182,8.2275,#C8BDFF,117,9
+Norway,Europe,20200310,400,Norway,294,60.472,8.4689,#C8BDFF,195,10
+Netherlands,Europe,20200310,382,Netherlands,301,52.1326,5.2913,#C8BDFF,61,11
+Sweden,Europe,20200310,355,Sweden,215,63,16,#C8BDFF,107,12
+Belgium,Europe,20200310,267,Belgium,245,50.8333,4,#C8BDFF,28,13
+Denmark,Europe,20200310,264,Denmark,187,56.2639,-6.9118,#C8BDFF,172,14
+Austria,Europe,20200310,182,Austria,202,47.5162,14.5501,#C8BDFF,51,15
+Singapore,Asia,20200310,160,Singapore,22,1.2833,103.8333,#C8BDFF,10,16
+Malaysia,Asia,20200310,129,Malaysia,48,2.5,112.5,#C8BDFF,12,17
+Bahrain,Asia,20200310,110,Bahrain,85,26.0275,50.55,#C8BDFF,15,18
+Australia,Oceania,20200310,107,Australia,72,-12.4634,115.8605,#C8BDFF,16,19
+China,Asia,20200311,80921,China,15136,19.1959,101.0583,#C8BDFF,34,1
+Italy,Europe,20200311,12462,Italy,5198,43,12,#C8BDFF,2313,2
+Iran,Asia,20200311,9000,Iran,1365,32,53,#C8BDFF,958,3
+France,Europe,20200311,2284,France,1383,-17.6797,-53,#C8BDFF,497,4
+Spain,Europe,20200311,2277,Spain,2955,40,-4,#C8BDFF,582,5
+Germany,Europe,20200311,1908,Germany,1597,51,9,#C8BDFF,451,6
+US,North America,20200311,1281,US,548,18.2208,-102.2548,#C8BDFF,322,7
+Switzerland,Europe,20200311,652,Switzerland,487,46.8182,8.2275,#C8BDFF,161,8
+Japan,Asia,20200311,639,Japan,72,36,138,#C8BDFF,58,9
+Norway,Europe,20200311,598,Norway,294,60.472,8.4689,#C8BDFF,198,10
+Netherlands,Europe,20200311,503,Netherlands,301,52.1326,5.2913,#C8BDFF,121,11
+Sweden,Europe,20200311,500,Sweden,215,63,16,#C8BDFF,145,12
+Denmark,Europe,20200311,444,Denmark,187,56.2639,-6.9118,#C8BDFF,180,13
+Belgium,Europe,20200311,314,Belgium,245,50.8333,4,#C8BDFF,47,14
+Qatar,Asia,20200311,262,Qatar,238,25.3548,51.1839,#C8BDFF,238,15
+Austria,Europe,20200311,246,Austria,202,47.5162,14.5501,#C8BDFF,64,16
+Bahrain,Asia,20200311,195,Bahrain,85,26.0275,50.55,#C8BDFF,85,17
+Singapore,Asia,20200311,178,Singapore,22,1.2833,103.8333,#C8BDFF,18,18
+Malaysia,Asia,20200311,149,Malaysia,48,2.5,112.5,#C8BDFF,20,19
+China,Asia,20200312,80932,China,15136,19.1959,101.0583,#C8BDFF,11,1
+Italy,Europe,20200312,12462,Italy,5198,43,12,#C8BDFF,0,2
+Iran,Asia,20200312,10075,Iran,1365,32,53,#C8BDFF,1075,3
+France,Europe,20200312,2284,France,1383,-17.6797,-53,#C8BDFF,0,4
+Spain,Europe,20200312,2277,Spain,2955,40,-4,#C8BDFF,0,5
+Germany,Europe,20200312,2078,Germany,1597,51,9,#C8BDFF,170,6
+US,North America,20200312,1663,US,548,18.2208,-102.2548,#C8BDFF,382,7
+Norway,Europe,20200312,702,Norway,294,60.472,8.4689,#C8BDFF,104,8
+Switzerland,Europe,20200312,652,Switzerland,487,46.8182,8.2275,#C8BDFF,0,9
+Japan,Asia,20200312,639,Japan,72,36,138,#C8BDFF,0,10
+Denmark,Europe,20200312,617,Denmark,187,56.2639,-6.9118,#C8BDFF,173,11
+Sweden,Europe,20200312,599,Sweden,215,63,16,#C8BDFF,99,12
+Netherlands,Europe,20200312,503,Netherlands,301,52.1326,5.2913,#C8BDFF,0,13
+Belgium,Europe,20200312,314,Belgium,245,50.8333,4,#C8BDFF,0,14
+Austria,Europe,20200312,302,Austria,202,47.5162,14.5501,#C8BDFF,56,15
+Qatar,Asia,20200312,262,Qatar,238,25.3548,51.1839,#C8BDFF,0,16
+Bahrain,Asia,20200312,195,Bahrain,85,26.0275,50.55,#C8BDFF,0,17
+Singapore,Asia,20200312,178,Singapore,22,1.2833,103.8333,#C8BDFF,0,18
+Malaysia,Asia,20200312,149,Malaysia,48,2.5,112.5,#C8BDFF,0,19
+China,Asia,20200313,80945,China,15136,19.1959,101.0583,#C8BDFF,13,1
+Italy,Europe,20200313,17660,Italy,5198,43,12,#C8BDFF,5198,2
+Iran,Asia,20200313,11364,Iran,1365,32,53,#C8BDFF,1289,3
+Spain,Europe,20200313,5232,Spain,2955,40,-4,#C8BDFF,2955,4
+Germany,Europe,20200313,3675,Germany,1597,51,9,#C8BDFF,1597,5
+France,Europe,20200313,3667,France,1383,-17.6797,-53,#C8BDFF,1383,6
+US,North America,20200313,2179,US,548,18.2208,-102.2548,#C8BDFF,516,7
+Switzerland,Europe,20200313,1139,Switzerland,487,46.8182,8.2275,#C8BDFF,487,8
+Norway,Europe,20200313,996,Norway,294,60.472,8.4689,#C8BDFF,294,9
+Sweden,Europe,20200313,814,Sweden,215,63,16,#C8BDFF,215,10
+Denmark,Europe,20200313,804,Denmark,187,56.2639,-6.9118,#C8BDFF,187,11
+Netherlands,Europe,20200313,804,Netherlands,301,52.1326,5.2913,#C8BDFF,301,12
+Japan,Asia,20200313,701,Japan,72,36,138,#C8BDFF,62,13
+Belgium,Europe,20200313,559,Belgium,245,50.8333,4,#C8BDFF,245,14
+Austria,Europe,20200313,504,Austria,202,47.5162,14.5501,#C8BDFF,202,15
+Qatar,Asia,20200313,320,Qatar,238,25.3548,51.1839,#C8BDFF,58,16
+Australia,Oceania,20200313,200,Australia,72,-12.4634,115.8605,#C8BDFF,72,17
+Singapore,Asia,20200313,200,Singapore,22,1.2833,103.8333,#C8BDFF,22,18
+Malaysia,Asia,20200313,197,Malaysia,48,2.5,112.5,#C8BDFF,48,19
+China,Asia,20200314,80977,China,15136,19.1959,101.0583,#C8BDFF,32,1
+Italy,Europe,20200314,21157,Italy,5198,43,12,#C8BDFF,3497,2
+Iran,Asia,20200314,12729,Iran,1365,32,53,#C8BDFF,1365,3
+Spain,Europe,20200314,6391,Spain,2955,40,-4,#C8BDFF,1159,4
+Germany,Europe,20200314,4585,Germany,1597,51,9,#C8BDFF,910,5
+France,Europe,20200314,4480,France,1383,-17.6797,-53,#C8BDFF,813,6
+US,North America,20200314,2727,US,548,18.2208,-102.2548,#C8BDFF,548,7
+Switzerland,Europe,20200314,1359,Switzerland,487,46.8182,8.2275,#C8BDFF,220,8
+Norway,Europe,20200314,1090,Norway,294,60.472,8.4689,#C8BDFF,94,9
+Sweden,Europe,20200314,961,Sweden,215,63,16,#C8BDFF,147,10
+Netherlands,Europe,20200314,959,Netherlands,301,52.1326,5.2913,#C8BDFF,155,11
+Denmark,Europe,20200314,836,Denmark,187,56.2639,-6.9118,#C8BDFF,32,12
+Japan,Asia,20200314,773,Japan,72,36,138,#C8BDFF,72,13
+Belgium,Europe,20200314,689,Belgium,245,50.8333,4,#C8BDFF,130,14
+Austria,Europe,20200314,655,Austria,202,47.5162,14.5501,#C8BDFF,151,15
+Qatar,Asia,20200314,337,Qatar,238,25.3548,51.1839,#C8BDFF,17,16
+Australia,Oceania,20200314,250,Australia,72,-12.4634,115.8605,#C8BDFF,50,17
+Malaysia,Asia,20200314,238,Malaysia,48,2.5,112.5,#C8BDFF,41,18
+Greece,Europe,20200314,228,Greece,91,39.0742,21.8243,#C8BDFF,38,19
